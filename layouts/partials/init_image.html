@@ -1,0 +1,25 @@
+{{ if .Params.image -}}
+ {{ if (hasPrefix .Params.image "http") -}}
+   {{/* Image is on another server  */}}
+   {{ $.Scratch.Set "image" .Params.image -}}
+   {{ $.Scratch.Set "imageConfig" (imageConfig .Params.image) -}}
+
+ {{ else if (hasPrefix .Params.image "/") -}}
+   {{/* Image is in the static folder  */}}
+   {{ $.Scratch.Set "image" (print .Site.BaseURL .Params.image) -}}
+   {{ $.Scratch.Set "imageConfig" (imageConfig (print "/static/" .Params.image)) -}}
+
+ {{ else }}
+  {{/* Image is in the content folder  */}}
+  {{ $.Scratch.Set "image" (print .Permalink .Params.image) -}}
+  {{ if eq .Section "posts" -}}
+    {{ $.Scratch.Set "imageConfig" (imageConfig (print "/content/posts/" .RelPermalink .Params.image)) -}}
+  {{ else -}}
+    {{ $.Scratch.Set "imageConfig" (imageConfig (print "/content/" .RelPermalink .Params.image)) -}}
+  {{ end -}}
+ {{ end -}}
+{{ else -}}
+  {{/* No image. Use default. */}}
+  {{ $.Scratch.Set "image" (print .Site.BaseURL .Site.Params.primaryImage) -}}
+  {{ $.Scratch.Set "imageConfig" (imageConfig (print "/static/" .Site.Params.primaryImage)) -}}
+{{ end -}}

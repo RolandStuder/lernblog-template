@@ -1,0 +1,19 @@
+baseURL: https://www.marcojakob.be/
+title: Marco Jakob
+languageCode: de
+removePathAccents: true
+disableFastRender: true
+preserveTaxonomyNames: true
+
+Params:
+  description: Lern-Blog von Marco Jakob
+  email: info@marcojakob.be
+  favicon: img/favicon.png
+  primaryImage: img/default-img.jpg
+
+permalinks:
+  posts: /:filename/
+  tags: /tag/:slug/
+
+taxonomies:
+  tag: tags
