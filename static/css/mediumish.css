@@ -93,11 +93,18 @@ section {
   text-decoration: none;
 }
 .listfeaturedtag h4.card-text,
-.listrecent h4.card-text {
+.listrecent h4.card-text,
+.listfeaturedtag h4.card-text a,
+.listrecent h4.card-text a {
   color: rgba(0, 0, 0, 0.44);
   font-size: 0.95rem;
   line-height: 1.4;
   font-weight: 400;
+}
+.listfeaturedtag h4.card-text a:hover,
+.listrecent h4.card-text a:hover {
+  color: rgba(0, 0, 0, 0.3);
+  text-decoration: none;
 }
 .listfeaturedtag .wrapfooter {
   position: absolute;
@@ -243,6 +250,14 @@ blockquote {
   padding: 0 20px;
   font-style: italic;
   color: rgba(0, 0, 0, 0.5);
+}
+.article-post > h1, 
+.article-post > h2, 
+.article-post > h3, 
+.article-post > h4, 
+.article-post > h5, 
+.article-post > h6 {
+  margin-top: 3rem;
 }
 .article-post p,
 .article-post blockquote {
@@ -460,16 +475,25 @@ ul.tags li a:hover {
   font-size: 12px;
 }
 
+/* Use zoom image for all images in article posts. */
+.article-post img {
+  max-width: 100%;
+  height: auto;
+  cursor: pointer;
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
+}
+
 /**
- * zoom.js - It's the best way to zoom an image
- * @version v0.0.2
- * @link https://github.com/fat/zoom.js
- * @license MIT
- */
+* zoom.js - It's the best way to zoom an image
+* @version v0.0.2
+* @link https://github.com/fat/zoom.js
+* @license MIT
+*/
 img[data-action="zoom"] {
   cursor: pointer;
   cursor: -webkit-zoom-in;
-  cursor: -moz-zoom-in;
+  cursor: zoom-in;
 }
 .zoom-img,
 .zoom-img-wrap {

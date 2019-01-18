@@ -1,4 +1,4 @@
-baseURL: https://www.marcojakob.be/
+baseURL: https://www.marco-jakob.ch/
 title: Marco Jakob
 languageCode: de
 removePathAccents: true
@@ -7,7 +7,7 @@ preserveTaxonomyNames: true
 
 Params:
   description: Lern-Blog von Marco Jakob
-  email: info@marcojakob.be
+  email: info@marco-jakob.ch
   favicon: img/favicon.png
   primaryImage: img/default-img.jpg
 
