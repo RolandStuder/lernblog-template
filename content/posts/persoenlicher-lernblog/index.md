@@ -1,8 +1,8 @@
 ---
 title: Persönlicher Lernblog - eine Idee und Vision
-description: "..."
-date: 2019-01-16
-image: /img/default-img.jpg
+description: Der persönliche Lernblog ist eine Website, auf der eine Person laufend notiert, was sie entdeckt, erarbeitet oder lernt.
+date: 2019-01-17
+image: schreibmaschine.jpg
 featured: 2
 ---
 

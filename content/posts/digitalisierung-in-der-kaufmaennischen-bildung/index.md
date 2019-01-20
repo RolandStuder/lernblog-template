@@ -1,8 +1,8 @@
 ---
 title: Digitalisierung in der kaufmännischen Bildung
-description: "..."
-date: 2019-01-16
-image: /img/default-img.jpg
+description: "Die kaufmännische Bildung ist besonders gefordert, sich neu zu finden in der digitalen Transformation. Zukünftig stärker geforderte Kompetenzen sind mitunter: Digitale Inhalte kreiren, Projekte führen, Kollaboration, etc."
+date: 2019-01-19
+image: office-meeting.jpg
 ---
 
 Ich mag es, wenn es etwas zu entdecken gibt, weil ich es noch nicht kenne. Von Digitalisierung haben wir aber schon so viel gehört, dass das Wort alleine wohl niemanden mehr vom Hocker reisst. Was nun dafür allen klar ist: Durch das Digital-Ding hat sich schon so einiges verändert und die Veränderung wird sich fortsetzen. Wohin genau die Reise geht, werden wir sehen, wenn wir dort sind. Aber darüber spekulieren, macht trotzdem Spass.

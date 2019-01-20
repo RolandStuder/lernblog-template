@@ -63,27 +63,15 @@ Wir werden uns nicht allzu oft als ganze Gruppen treffen können. Das heisst, wi
 
 Es ist wichtig, dass wir den Entscheidungsprozess definieren. Was sonst oft passiert in solchen Gruppen, ist, dass man entweder davon ausgeht, dass alle im Konsens einverstanden sein müssen oder es spielen unklare Hierarchien. Konsens kann zu sehr lange Diskussionen führen. Und wenn es nicht Konsens ist, dann wäre z.B. bei der Gruppe _BYOD_ unklar, wie viel ich jetzt als Leitung alleine entscheiden könnte und wie viel einzelne Gruppenmitglieder (welche zum Teil als Direktionsmitglieder meine Arbeitgeber sind).
 
-Marco G. (Leiter AG bwd digital) und ich haben uns dazu unterhalten. Wir möchten es gerne so handhaben, dass **alle Mitglieder das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe**. Um dies zu ermöglichen, nutzen wir zwei innovative Formen der Entscheidungsfindung:
-
-#### Beratungsprozess
-
-Die meisten Entscheidungen können von jedem einzelnen Gruppenmitglied im Beratungsprozess gefällt werden. Der Beratungsprozess läuft ab in **drei Schritten**:
-
-1. **Rat:** Die Person, welche eine Entscheidung fällen will muss die Leute um Rat fragen, welche eine Expertise haben in diesem Gebiet und die, welche wesentlich von der Entscheidung betroffen sind.
-2. **Entscheid:** Die Person nimmt den Rat ernst, fällt aber selbständig die Entscheidung.
-3. **Transparenz:** Die Person kommuniziert der Gruppe transparent, was sie entschieden hat und welche Personen um Rat gefragt wurden.
-
----
-
-&rarr; Weitere Informationen zum Beratungsprozess habe ich im Blogeintrag [Entscheidungsprozess](/entscheidungsprozess/) beschrieben.
-
----
+Marco G. (Leiter AG bwd digital) und ich haben uns dazu unterhalten. Wir möchten es gerne so handhaben, dass **alle Mitglieder das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe**. Um dies zu ermöglichen, nutzen wir eine neue Formen der Entscheidungsfindung:
 
 ### Soziokratische Entscheidungen in Meetings
 
-Entscheide, bei welchen die ganze _Projektgruppe BYOD_ oder die ganze _AG bwd digital_ involviert werden muss, werden in Meetings gefällt. Diese Entscheidungen fällen wir nicht nach Konsens oder durch einen Mehrheitsentscheid, sondern nach einem **soziokratischen Konsent** (beachte: Konsen-**t**, nicht Konsen-**s**).
+![Meeting](meeting.jpg)
 
-Beim _soziokratischen Konsent_ stellt man nicht die Frage, wer mit einem Vorschlag "einverstanden" ist, sondern ob jemand einen "schwerwiegenden Einwand" hat gegen den Vorschlag. Alle Gruppenmitglieder werden der Reihe nach gefragt, ob sie einen schwerwiegenden Einwand vorbringen möchten. Falls niemand einen Einwand hat, wird der Vorschlag angenommen.
+Entscheide in der _Projektgruppe BYOD_ und der _AG bwd digital_ fällen wir nicht nach Konsens oder durch einen demokratischen Mehrheitsentscheid, sondern nach **soziokratischem Konsent** (beachte: Konsen&#8209;**t**, nicht Konsen&#8209;**s**).
+
+Beim _soziokratischen Konsent_ stellt man nicht die Frage, wer mit einem Vorschlag "einverstanden" ist, sondern ob jemand einen **"schwerwiegenden Einwand"** hat gegen den Vorschlag. Alle Gruppenmitglieder werden der Reihe nach gefragt, ob sie einen schwerwiegenden Einwand vorbringen möchten. Falls niemand einen Einwand hat, wird der Vorschlag angenommen.
 
 Diese Entscheidungsform hat ein paar entscheidende Vorteile als Gruppe:
 
@@ -91,9 +79,17 @@ Diese Entscheidungsform hat ein paar entscheidende Vorteile als Gruppe:
 - Es entsteht eine Kultur der Innovation. Es wird nicht gewartet auf die perfekte Lösung, die dann nie kommt. Man spricht auch von einem ["good enought for now and safe enought to try"](https://medium.com/@almerudcaspian/good-enough-for-now-safe-enough-to-try-9dec91f0af07). 
 - Jede Person wird angehört und ernst genommen. Mit einem "schwerwiegenden Einwand" haben alle eine Art Veto-Recht und können den Vorschlag stoppen, wenn sie denken, dass es die Gruppe in Schwierigkeiten bringen könnte.
 
+### Beispiel für einen Entscheid
+
+Ich werde beim ersten Meeting den Vorschlag einbringen, dass wir unsere Meeting-Protokolle als Blogeinträge aufbereiten, wie diesen Eintrag hier. Der Sinn ist, dass sich alle informieren können - auch die, welche nicht in der Projektgruppe sind.
+
+So läuft es dann ab: Zuerst kann der Reihe nach jede/r Klärungsfragen stellen zu diesem Vorschlag. In der zweiten Runde kann jede/r eine Reaktion darauf äussern (z.B. "bin begeistert" oder "habe ein etwas mulmiges Gefühl"). In der dritten Runde werden alle gefragt, ob sie "einen schwerwiegenden Einwand" haben. Hat niemand einen Einwand, gilt der Vorschlag als angenommen. Ein Einwand von einer Person reicht, um den Vorschlag zu kippen. Meist wird dann der Entscheid auf das nächste Meeting vertagt, damit ein verbesserter Vorschlag gefunden werden kann.
+
+Das scheint auf den ersten Blick aufwändig zu sein. Die Runden gehen aber sehr schnell. Denn es wird zwar Feedback aufgenommen, aber es finden keine Diskussionen statt während dem Meeting.
+
 ---
 
-Details zum Ablauf eines soziokratischen Konsents sind im Blogeintrag [Entscheidungsprozess](/entscheidungsprozess/) zu finden.
+Weitere Details zum Ablauf eines soziokratischen Konsents sind im Blogeintrag [Entscheidungsprozess](/entscheidungsprozess/) zu finden.
 
 ---
 
@@ -110,11 +106,12 @@ In diesem ersten Meeting wird es um folgende Themen gehen:
 - Zeitressourcen (Mandat von Marco J. von ca. 200 Stunden im Jahr 2019, Verfügbarkeit anderer Teammitglieder)
 - Digitale Kommunikation der Gruppe und Transparenz
 - Ideen aus der Gruppe, denen wir nachgehen möchten
+  - [Idee: Persönlicher Lernblog](/persoenlicher-lernblog/) **(bitte als Vorbereitung lesen!)**
 - Termine für weitere Treffen (vor Ort oder Videokonferenz)
 - Nächste Schritte
 - Varia
 
-Ja, es ist recht viel für das knappe Zeitfenster. Ich werde trotzdem versuchen, es so zu moderieren, dass es Raum gibt, sich **gegenseitig zu informieren und inspirieren**, **Feedback einzuholen** und allfällige **soziokratische Entscheide** zu fällen. Das erste Treffen ist sicher speziell. Mit der Zeit werden wir eine passende Form finden für unsere Meetings, kombiniert mit informellen Treffen im Schulhaus und digitalen Informationsaustausch.
+Ja, es ist recht viel für das knappe Zeitfenster. Ich werde trotzdem versuchen, es so zu moderieren, dass es Raum gibt, sich **gegenseitig zu informieren und inspirieren**, **Feedback einzuholen** und allfällige **soziokratische Entscheide** zu fällen. Das erste Treffen ist sicher speziell. Mit der Zeit werden wir eine passende Form finden für unsere Meetings, kombiniert mit informellen Treffen im Schulhaus und digitalem Informationsaustausch.
 
 
 ## Weiterentwicklung

@@ -1,31 +1,17 @@
 ---
 title: Entscheidungsprozess
-description: "..."
-date: 2019-01-16
-image: /img/default-img.jpg
+description: Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit soziokratischem Konsent.
+date: 2019-01-18
+image: entscheidung.jpg
 ---
 
-Dieser Blogeintrag ist ein etwas ausführlicher Beschrieb, wie Entscheidungen gefällt werden im **Beratungsprozess** und mit **soziokratischem Konsent**.
+Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit **soziokratischem Konsent**.
 
 Das **Grundprinzip** ist, dass alle Mitglieder einer Gruppe das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe. Das **Ziel** ist, dass Entscheide mit wertvollem Feedback von anderen und möglichst effizient getroffen werden können. Weiter soll es eine innovative Kultur ermöglichen, bei welchem Initiativen nur dann blockiert werden, wenn es die Gruppe in eine gefährliche Richtung führen würde.
 
-## Beratungsprozess
-
-Die meisten Entscheidungen können von jedem einzelnen Gruppenmitglied im Beratungsprozess gefällt werden. Der Beratungsprozess läuft ab in **drei Schritten**:
-
-1. **Rat:** Die Person, welche eine Entscheidung fällen will muss die Leute um Rat fragen, welche eine Expertise haben in diesem Gebiet und die, welche wesentlich von der Entscheidung betroffen sind.
-2. **Entscheid:** Die Person nimmt den Rat ernst, fällt aber selbständig die Entscheidung.
-3. **Transparenz:** Die Person kommuniziert der Gruppe transparent, was sie entschieden hat und welche Personen um Rat gefragt wurden.
-
----
-
-_Dieser Prozess basiert auf langjähriger Erfahrung von unterschiedlichsten Organisationen und Firmen, welche Frederic Laloux in einem Buch [Reinventing Organizations](http://www.reinventingorganizations.com/) zusammengetragen hat. Weitere Ausführungen zum Beratungsprozess finden sich im_ [_Wiki von Reinventing Organizations_](http://www.reinventingorganizationswiki.com/Decision_Making).
-
----
-
 ## Soziokratischer Konsent in Meetings
 
-Entscheide, bei welchen die ganze Gruppe involviert werden muss, werden in Meetings gefällt. Diese Entscheidungen fällen wir nicht nach Konsens oder durch einen Mehrheitsentscheid, sondern nach **soziokratischen Konsent**.
+Entscheide, bei welchen die ganze Gruppe involviert werden muss, werden in Meetings gefällt. Diese Entscheidungen fällen wir nicht nach Konsens oder durch einen demokratischen Mehrheitsentscheid, sondern nach **soziokratischem Konsent**.
 
 Beim _soziokratischen Konsent_ stellt man nicht die Frage, wer mit einem Vorschlag "einverstanden" ist. Alle Gruppenmitglieder werden der Reihe nach gefragt, ob sie einen **schwerwiegenden Einwand** haben. Falls niemand einen Einwand vorbringt, wird der Vorschlag angenommen.
 
