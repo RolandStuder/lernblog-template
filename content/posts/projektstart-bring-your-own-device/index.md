@@ -61,7 +61,7 @@ _Ja, es sind drei verschiedene Marcos... ;-)_
 
 Wir werden uns nicht allzu oft als ganze Gruppen treffen können. Das heisst, wir brauchen eine effiziente und klare Form, Entscheidungen zu fällen.
 
-Es ist wichtig, dass wir den Entscheidungsprozess definieren. Was sonst oft passiert in solchen Gruppen, ist, dass man entweder davon ausgeht, dass alle im Konsens einverstanden sein müssen oder es spielen unklare Hierarchien. Konsens kann zu sehr lange Diskussionen führen. Und wenn es nicht Konsens ist, dann wäre z.B. bei der Gruppe _BYOD_ unklar, wie viel ich jetzt als Leitung alleine entscheiden könnte und wie viel einzelne Gruppenmitglieder (welche zum Teil als Direktionsmitglieder meine Arbeitgeber sind).
+Es ist wichtig, dass wir den Entscheidungsprozess definieren. Was sonst oft passiert in solchen Gruppen, ist, dass man entweder davon ausgeht, dass alle im Konsens einverstanden sein müssen oder es spielen unklare Hierarchien. Konsens kann zu sehr lange Diskussionen führen. Und wenn es nicht Konsens ist, dann wäre z.B. bei der Gruppe _BYOD_ unklar, wie viel ich jetzt als Leitung alleine entscheiden könnte und wie viel andere Gruppenmitglieder (welche ja auch unterschiedliche Positionen in der Schule vertreten).
 
 Marco G. (Leiter AG bwd digital) und ich haben uns dazu unterhalten. Wir möchten es gerne so handhaben, dass **alle Mitglieder das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe**. Um dies zu ermöglichen, nutzen wir eine neue Formen der Entscheidungsfindung:
 
