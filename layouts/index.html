@@ -18,7 +18,7 @@
 		<h2><span> Favoriten</span></h2>
 	</div>
 	<div class="card-columns listfeaturedtag">
-		{{ range sort (where (where .Pages "Section" "posts") "Params.featured" ">" 0 ) "Params.featured" }}
+		{{ range (where (where .Pages "Section" "posts") "Params.featured" "==" true ) }}
 		<div class="card">
 			<div class="row">
 				<div class="col-md-5 wrapthumbnail">

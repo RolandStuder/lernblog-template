@@ -1,8 +1,8 @@
 ---
 title: Entscheidungsprozess
 description: Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit soziokratischem Konsent.
-date: 2019-01-18
-image: entscheidung.jpg
+date: 2019-01-20
+image: meeting.jpg
 ---
 
 Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit **soziokratischem Konsent**.
@@ -39,6 +39,8 @@ Die Vorschlagende Person kann die Absicht seines Vorschlags weiter erklären ode
 
 Der/Die Moderator/in fragt: "Seht ihr irgendeinen Grund, warum die Annahme dieses Vorschlags Schaden anrichten oder uns zurückwerfen könnte?" Einwände werden ohne Diskussion benannt und begründet. Wenn keine Einwände im Raum sind, wird der Vorschlag angenommen.
 
+![Einwand Notfallknopf](einwand.jpg)
+
 #### Bei Einwand: Vertagung oder Integration des Einwandes
 
 Wenn ein Einwand formuliert wurde, hat der Moderator zwei Möglichkeiten: Je nach Traktandum oder Zeitverhältnisse, wird der Vorschlag vertagt auf das nächste Treffen oder an dieser Stelle diskutiert, um einen veränderten Vorschlag zu finden.
@@ -67,3 +69,5 @@ Ohne diese beiden Punkten kann ich mir nur schwer vorstellen, dass man eine posi
 _Weitere Informationen auf [Wikipedia](https://de.wikipedia.org/wiki/Soziokratie), [Sociocracy For All](http://www.sociocracyforall.org/) oder [Sociocracy 3.0](https://sociocracy30.org/)._
 
 ---
+
+<small><em>Bildquellen: Meeting von [Rawpixel](https://www.pexels.com/photo/group-of-people-having-a-meeting-1509427/) (free license), Alarmknopf von [Tama66](https://pixabay.com/en/alarm-fire-brand-red-security-1644173/) (free license)</em></small>

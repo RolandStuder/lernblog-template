@@ -1,5 +1,5 @@
 ---
-title: LernBlog
+title: Lernblog
 description: von Marco Jakob
 menu:
   main:

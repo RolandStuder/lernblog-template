@@ -229,6 +229,18 @@ span.post-read-more a:hover {
   color: rgba(0, 0, 0, 0.44);
   margin-top: 50px;
 }
+.newsletter-form .form-control {
+  border-radius: 30px;
+  overflow: hidden;
+}
+.newsletter-form .btn {
+  border-radius: 30px;
+  color: #ffffff;
+  background-color: #ff7260;
+}
+.newsletter-form .btn:hover {
+  background-color: #0056b3;
+}
 .link-dark {
   color: rgba(0, 0, 0, 0.8);
 }

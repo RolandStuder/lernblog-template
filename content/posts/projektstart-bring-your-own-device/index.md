@@ -1,9 +1,9 @@
 ---
 title: Projektstart "Bring Your Own Device"
 description: "Dieser Blogeintrag zeigt auf, was die Idee des Projektes ist und wie wir uns als Projektteam organisieren."
-date: 2019-01-16
+date: 2019-01-17
 image: projektstart.jpg
-featured: 1
+featured: true
 ---
 
 In diesem Jahr starten wir am [bwd Bern](https://www.bwdbern.ch/) mit einem **Projekt "Bring Your Own Device"**. Dieser Blogeintrag soll aufzeigen, was die Idee dieses Projektes ist und wie wir uns organisieren. Der Eintrag dient auch als Einladung für das erste Treffen der Projektgruppe und als Informationen für alle Interessierten.
@@ -49,7 +49,7 @@ Die [Direktion des bwd](https://www.bwdbern.ch/bwd/ueber-uns/direktion-bwd/) hat
 
 ## Organisation
 
-Die _Projektgruppe BYOD_ besteht aus 7 Mitgliedern der Grundbildung am bwd. Da es von den Themen her viel Überschneidung gibt mit der _AG bwd digital_, haben wir uns entschieden, dass jeweils die Leitung der einen Gruppe in der anderen Gruppe vertreten sein wird. Damit können wir uns bei Bedarf jeweils kurz absprechen, ob ein Thema oder eine Aufgabe besser in der einen oder anderen Gruppe bearbeitet wird.
+Die _Projektgruppe BYOD_ besteht aus 7 Mitgliedern der Grundbildung am bwd. Da es von den Themen her viel Überschneidung gibt mit der _AG bwd digital_, haben wir uns entschieden, dass jeweils die Leitung der einen Gruppe in der anderen Gruppe vertreten sein wird. Damit können wir uns bei Bedarf jeweils kurz absprechen, ob ein Thema oder eine Aufgabe besser in der einen oder anderen Gruppe bearbeitet werden soll.
 
 Personell ergibt sich aktuell folgende Zusammenstellung:
 
@@ -59,13 +59,13 @@ _Ja, es sind drei verschiedene Marcos... ;-)_
 
 ### Fällen von Entscheidungen
 
-Wir werden uns nicht allzu oft als ganze Gruppen treffen können. Das heisst, wir brauchen eine effiziente und klare Form, Entscheidungen zu fällen innerhalb und ausserhalb von Meetings.
+Wir werden uns nicht allzu oft als ganze Gruppen treffen können. Das heisst, wir brauchen eine effiziente und klare Form, Entscheidungen zu fällen.
 
 Es ist wichtig, dass wir den Entscheidungsprozess definieren. Was sonst oft passiert in solchen Gruppen, ist, dass man entweder davon ausgeht, dass alle im Konsens einverstanden sein müssen oder es spielen unklare Hierarchien. Konsens kann zu sehr lange Diskussionen führen. Und wenn es nicht Konsens ist, dann wäre z.B. bei der Gruppe _BYOD_ unklar, wie viel ich jetzt als Leitung alleine entscheiden könnte und wie viel einzelne Gruppenmitglieder (welche zum Teil als Direktionsmitglieder meine Arbeitgeber sind).
 
 Marco G. (Leiter AG bwd digital) und ich haben uns dazu unterhalten. Wir möchten es gerne so handhaben, dass **alle Mitglieder das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe**. Um dies zu ermöglichen, nutzen wir eine neue Formen der Entscheidungsfindung:
 
-### Soziokratische Entscheidungen in Meetings
+### Soziokratische Entscheidungen
 
 ![Meeting](meeting.jpg)
 
@@ -81,9 +81,9 @@ Diese Entscheidungsform hat ein paar entscheidende Vorteile als Gruppe:
 
 ### Beispiel für einen Entscheid
 
-Ich werde beim ersten Meeting den Vorschlag einbringen, dass wir unsere Meeting-Protokolle als Blogeinträge aufbereiten, wie diesen Eintrag hier. Der Sinn ist, dass sich alle informieren können - auch die, welche nicht in der Projektgruppe sind.
+Ich werde beim ersten Meeting den Vorschlag einbringen, dass wir die Ergebnisse unserer Meetings jeweils als Blogeinträge aufbereiten, wie diesen Eintrag hier (natürlich mit dem nötigen Respekt und Schutz der Personen). Der Sinn ist, dass sich alle informieren können - auch die, welche nicht in der Projektgruppe sind.
 
-So läuft es dann ab: Zuerst kann der Reihe nach jede/r Klärungsfragen stellen zu diesem Vorschlag. In der zweiten Runde kann jede/r eine Reaktion darauf äussern (z.B. "bin begeistert" oder "habe ein etwas mulmiges Gefühl"). In der dritten Runde werden alle gefragt, ob sie "einen schwerwiegenden Einwand" haben. Hat niemand einen Einwand, gilt der Vorschlag als angenommen. Ein Einwand von einer Person reicht, um den Vorschlag zu kippen. Meist wird dann der Entscheid auf das nächste Meeting vertagt, damit ein verbesserter Vorschlag gefunden werden kann.
+So läuft der soziokratische Entscheid ab: Zuerst kann der Reihe nach jede/r Klärungsfragen stellen zu diesem Vorschlag. In der zweiten Runde kann jede/r eine Reaktion darauf äussern (z.B. "bin begeistert" oder "habe ein etwas mulmiges Gefühl"). In der dritten Runde werden alle gefragt, ob sie "einen schwerwiegenden Einwand" haben. Hat niemand einen Einwand, gilt der Vorschlag als angenommen. Ein Einwand von einer Person reicht, um den Vorschlag zu kippen. Meist wird dann der Entscheid auf das nächste Meeting vertagt, damit ein verbesserter Vorschlag gefunden werden kann.
 
 Das scheint auf den ersten Blick aufwändig zu sein. Die Runden gehen aber sehr schnell. Denn es wird zwar Feedback aufgenommen, aber es finden keine Diskussionen statt während dem Meeting.
 
@@ -97,17 +97,21 @@ Weitere Details zum Ablauf eines soziokratischen Konsents sind im Blogeintrag [E
 
 Als *Projektteam BYOD* treffen wir uns zum ersten mal am *Freitag, 25. Januar 2019, 16.00-17.30 Uhr*.
 
-Wir können schon im ersten Meeting als Gruppe nach soziokratischem Konsent Entscheide fällen. Wir können auch entscheiden, dass wir diese Entscheidungsform wieder abschaffen wollen ;-).
+Wir können schon im ersten Meeting als Gruppe nach soziokratischem Konsent Entscheide fällen. Wir könnten auch entscheiden, dass wir diese Entscheidungsform wieder abschaffen wollen ;-).
 
 In diesem ersten Meeting wird es um folgende Themen gehen:
 
 - Ziele von BYOD am bwd
 - Organisation und Entscheidungsfindung
-- Zeitressourcen (Mandat von Marco J. von ca. 200 Stunden im Jahr 2019, Verfügbarkeit anderer Teammitglieder)
+- Grundprinzip: "Zuerst digitale Anwendungen finden, die Begeisterung auslösen. Dann dazu passende Infastruktur (z.B. BYOD) organisieren."
 - Digitale Kommunikation der Gruppe und Transparenz
 - Ideen aus der Gruppe, denen wir nachgehen möchten
-  - [Idee: Persönlicher Lernblog](/persoenlicher-lernblog/) **(bitte als Vorbereitung lesen!)**
-- Termine für weitere Treffen (vor Ort oder Videokonferenz)
+  - [Idee: Persönlicher Lernblog](/lernblog-idee/) **(bitte als Vorbereitung lesen!)**
+  - Pädagogisch-didaktische Möglichkeiten
+  - Austausch über weitere Ideen
+- Nächste Treffen
+  - Zeitressourcen (Mandat von Marco J. von ca. 200 Stunden im Jahr 2019, Verfügbarkeit anderer Teammitglieder)
+  - Vorschlag: Alternierend einmal Video-Konferenz, einmal vor Ort
 - Nächste Schritte
 - Varia
 
@@ -119,3 +123,7 @@ Ja, es ist recht viel für das knappe Zeitfenster. Ich werde trotzdem versuchen,
 Ich bin persönlich überzeugt, dass **Lernen auf jeder Ebene einer Organisation** stattfinden sollte. Und das gilt natürlich in besonderem Mass für uns als Schule, einer "Institution des Lernens". Das heisst, auch die _Projektgruppe BYOD_ und die _AG bwd digital_ werden wir möglichst "agil" halten, damit wir aus dem Prozess lernen und uns weiterentwickeln können.
 
 Wie sich unsere Zusammenarbeit bewährt und weiterentwickelt, wäre sicher interessanter Stoff für spätere Blogeinträge... Ich hoffe jedenfalls, dass ich genug Zeit finde, diesen Blog zu füttern. Und vielleicht braucht es auch etwas Mut, Blogeinträge raus zu lassen, die "good enough for now and safe enough to try" sind. Das fällt mir noch nicht so leicht.
+
+---
+
+<small><em>Bildquellen: Tisch mit Laptops von [StartupStockPhotos](https://pixabay.com/de/start-start-up-notizb%C3%BCcher-kreative-593296/) (free license), Meeting von [Sarah Pflug](https://burst.shopify.com/photos/business-meeting-with-large-team) (free license)</em></small>

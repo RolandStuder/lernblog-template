@@ -33,6 +33,10 @@ Wenn es solche Phänomene gibt, gibt es meist jemanden, der das in ein schönes 
 
 Es ist ganz schwierig, aus unserer "Box" zu kriechen. Aber versuchen sollten wir es zumindest.
 
-In [Persönlicher Lernblog - eine Idee und Vision](/persoenlicher-lernblog/) habe ich versucht zu skizzieren, wie wir die Welle der digitalen Transformation reiten können, um zu neuen Formen des Lernens zu gelangen.  
+In [Persönlicher Lernblog - eine Idee und Vision](/lernblog-idee/) habe ich versucht zu skizzieren, wie wir die Welle der digitalen Transformation reiten können, um zu neuen Formen des Lernens zu gelangen.  
 
 Mit dem [Projekt BYOD und der AG bwd digital](/projektstart-bring-your-own-device/) haben wir am bwd Bern zwei Gruppen initiiert, welche sich aufmachen, zu entdecken, was möglich ist, was sinnvoll ist und Lust macht auf Lernen.
+
+---
+
+<small><em>Bildquelle: Tisch mit Blätter und Laptops von [Shopify Partners](https://burst.shopify.com/photos/office-meeting-flatlay) (free license), SAMR-Modell von [Dr. Ruben Puentedura](http://hippasus.com/rrpweblog/archives/2015/10/SAMR_ABriefIntro.pdf)</em></small>
