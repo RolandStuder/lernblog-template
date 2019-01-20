@@ -1,7 +1,7 @@
 ---
 title: Entscheidungsprozess
 description: "..."
-date: 2019-01-17
+date: 2019-01-16
 image: /img/default-img.jpg
 ---
 

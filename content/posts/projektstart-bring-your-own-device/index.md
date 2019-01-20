@@ -1,8 +1,9 @@
 ---
 title: Projektstart "Bring Your Own Device"
-description: "..."
+description: "Dieser Blogeintrag zeigt auf, was die Idee des Projektes ist und wie wir uns als Projektteam organisieren."
 date: 2019-01-16
-image: /img/default-img.jpg
+image: projektstart.jpg
+featured: 1
 ---
 
 In diesem Jahr starten wir am [bwd Bern](https://www.bwdbern.ch/) mit einem **Projekt "Bring Your Own Device"**. Dieser Blogeintrag soll aufzeigen, was die Idee dieses Projektes ist und wie wir uns organisieren. Der Eintrag dient auch als Einladung für das erste Treffen der Projektgruppe und als Informationen für alle Interessierten.
@@ -48,7 +49,7 @@ Die [Direktion des bwd](https://www.bwdbern.ch/bwd/ueber-uns/direktion-bwd/) hat
 
 ## Organisation
 
-Die _Projektgruppe BYOD_ besteht aus 7 Mitgliedern aus der Grundbildung am bwd. Da es von den Themen her sehr viel Überschneidung gibt mit der _AG bwd digital_, haben wir uns entschieden, dass jeweils die Leitung der einen Gruppe in der anderen Gruppe vertreten sein wird. Damit können wir uns bei Bedarf jeweils kurz absprechen, ob ein Thema oder eine Aufgabe besser in der einen oder anderen Gruppe bearbeitet wird.
+Die _Projektgruppe BYOD_ besteht aus 7 Mitgliedern der Grundbildung am bwd. Da es von den Themen her viel Überschneidung gibt mit der _AG bwd digital_, haben wir uns entschieden, dass jeweils die Leitung der einen Gruppe in der anderen Gruppe vertreten sein wird. Damit können wir uns bei Bedarf jeweils kurz absprechen, ob ein Thema oder eine Aufgabe besser in der einen oder anderen Gruppe bearbeitet wird.
 
 Personell ergibt sich aktuell folgende Zusammenstellung:
 
@@ -58,11 +59,11 @@ _Ja, es sind drei verschiedene Marcos... ;-)_
 
 ### Fällen von Entscheidungen
 
-Wir werden uns nicht allzu oft als ganze Gruppen treffen können. Das heisst, wir brauchen eine einfache, effiziente und klare Form, Entscheidungen zu fällen innerhalb und ausserhalb von Meetings.
+Wir werden uns nicht allzu oft als ganze Gruppen treffen können. Das heisst, wir brauchen eine effiziente und klare Form, Entscheidungen zu fällen innerhalb und ausserhalb von Meetings.
 
-Es ist wichtig, dass wir den Entscheidungsprozess definieren. Was sonst oft passiert in solchen Gruppen, ist, dass man entweder davon ausgeht, dass alle im Konsens einverstanden sein müssen oder es spielen unklare Hierarchien. Konsens kann zu sehr lange Diskussionen führen. Dafür haben wir keine Zeit. Und wenn es nicht Konsens ist, dann wäre z.B. bei der Gruppe _BYOD_ unklar, wie viel ich jetzt als Leitung alleine entscheiden könnte und wie viel einzelne Gruppenmitglieder (welche zum Teil als Direktionsmitglieder meine Arbeitgeber sind).
+Es ist wichtig, dass wir den Entscheidungsprozess definieren. Was sonst oft passiert in solchen Gruppen, ist, dass man entweder davon ausgeht, dass alle im Konsens einverstanden sein müssen oder es spielen unklare Hierarchien. Konsens kann zu sehr lange Diskussionen führen. Und wenn es nicht Konsens ist, dann wäre z.B. bei der Gruppe _BYOD_ unklar, wie viel ich jetzt als Leitung alleine entscheiden könnte und wie viel einzelne Gruppenmitglieder (welche zum Teil als Direktionsmitglieder meine Arbeitgeber sind).
 
-Marco G. (Leiter AG bwd digital) und ich haben uns dazu unterhalten. Wir möchten es gerne so handhaben, dass **alle Mitglieder das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe**. Um es schlank und effizient zu organisieren, nutzen wir innovative Formen der Entscheidungsfindung:
+Marco G. (Leiter AG bwd digital) und ich haben uns dazu unterhalten. Wir möchten es gerne so handhaben, dass **alle Mitglieder das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe**. Um dies zu ermöglichen, nutzen wir zwei innovative Formen der Entscheidungsfindung:
 
 #### Beratungsprozess
 

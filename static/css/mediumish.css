@@ -72,9 +72,7 @@ section {
   background-origin: border-box !important;
   border-top-left-radius: 2px;
 }
-.listfeaturedtag .card-block {
-  padding-top: 1.25rem;
-  padding-right: 1.25rem;
+.listfeaturedtag .card-body {
   padding-left: 0;
 }
 .listfeaturedtag h2.card-title,
@@ -323,8 +321,8 @@ blockquote {
     position: relative;
     margin-top: 30px;
   }
-  .listfeaturedtag .card-block {
-    padding: 20px;
+  .listfeaturedtag .card-body {
+    padding-left: 1.25rem;
   }
 }
 @media (max-width: 767px) {
