@@ -104,4 +104,4 @@ Und wenn wir dann so richtig digital transformiert sind, dann werden wir uns vie
 
 ---
 
-<small><em>Bildquelle: Schreibmaschine von [Ake](https://www.rawpixel.com/image/385102/aerial-view-man-typing-retro-typewriter) (free license)</em></small>
+<small><em>Bildquelle: Schreibmaschine von [Ake](https://www.rawpixel.com/image/385164/aerial-view-man-typing-retro-typewriter) (free license)</em></small>
