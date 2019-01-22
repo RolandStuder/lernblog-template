@@ -30,7 +30,7 @@ Deshalb wäre es doch genial, wenn möglichst viele Lehrpersonen einen eigenen L
 
 ## Öffentlicher Webauftritt
 
-Ein geschlossenes System, worauf nur Leute der eigenen Schule Zugriff haben, ist meist nicht zeitgemäss und - wie ich finde - ziemlich langweilig. Denn wenn ich weiss, dass diese Zeilen öffentlich im Internet verfügbar sind, gebe ich mir mehr Mühe und bin vor allem motivierter, diesen Aufwand überhaupt zu betreiben. Ich weiis auch, dass ich einem erweiterten Publikum einen Link zur Seite schicken kann. Und wer weiss, vielleicht hilft es mal jemand anderem in seinem Lernen.
+Ein geschlossenes System, worauf nur Leute der eigenen Schule Zugriff haben, ist meist nicht zeitgemäss und - wie ich finde - ziemlich langweilig. Denn wenn ich weiss, dass diese Zeilen öffentlich im Internet verfügbar sind, gebe ich mir mehr Mühe und bin vor allem motivierter, diesen Aufwand überhaupt zu betreiben. Ich weiss auch, dass ich einem erweiterten Publikum einen Link zur Seite schicken kann. Und wer weiss, vielleicht hilft es mal jemand anderem in seinem Lernen.
 
 ## Die eigene Adresse im Web
 
