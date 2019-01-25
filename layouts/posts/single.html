@@ -82,7 +82,8 @@
 
 			<!-- Begin Post Content -->
 			<div class="article-post">
-				{{ .Content }}
+				{{/* Turn all images in to <figcaption> with alt text. */}}
+				{{ .Content | replaceRE "<p><img src=\"([^\"]+)\" alt=\"([^\"]+)\" /></p>" "<figure><img src=\"$1\" alt=\"$2\"><figcaption>$2</figcaption></figure>" | safeHTML }}
 			</div>
 			<!-- End Post Content -->
 

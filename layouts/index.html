@@ -58,14 +58,14 @@
 		<h2><span>Weitere Blogeinträge</span></h2>
 	</div>
 	<div class="card-columns listrecent">
-			{{ range where (where .Pages "Section" "posts") "Params.featured" "==" nil }}
+		{{ range where (where .Pages "Section" "posts") "Params.featured" "!=" true }}
 		<div class="card">
 			<a href="{{ .RelPermalink }}">
 				<img class="img-fluid" src="{{ if not (hasPrefix .Params.image "/") }}{{ .RelPermalink }}{{ end }}{{ .Params.image }}" alt="">
 			</a>
 			<div class="card-body">
 				<h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-				<h4 class="card-text">{{ .Params.description }}</h4>
+				<h4 class="card-text"><a href="{{ .RelPermalink }}">{{ .Params.description }}</a></h4>
 				<div class="metafooter">
 					<div class="wrapfooter">
 						<span class="meta-footer-thumb">

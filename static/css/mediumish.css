@@ -494,6 +494,21 @@ ul.tags li a:hover {
   cursor: zoom-in;
 }
 
+.article-post figure {
+  display: inline-block;
+}
+.article-post figure img {
+  margin-bottom: .5rem;
+  line-height: 1;
+  max-width: 100%;
+  height: auto;
+}
+.article-post figcaption {
+  font-size: 80%;
+  color: #6c757d;
+  font-style: italic;
+}
+
 /**
 * zoom.js - It's the best way to zoom an image
 * @version v0.0.2
