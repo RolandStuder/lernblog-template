@@ -39,7 +39,7 @@ Die Vorschlagende Person kann die Absicht seines Vorschlags weiter erklären ode
 
 Der/Die Moderator/in fragt: "Seht ihr irgendeinen Grund, warum die Annahme dieses Vorschlags Schaden anrichten oder uns zurückwerfen könnte?" Einwände werden ohne Diskussion benannt und begründet. Wenn keine Einwände im Raum sind, wird der Vorschlag angenommen.
 
-![Einwand Notfallknopf](einwand.jpg)
+![Jede Person hat die Möglichkeit, einen Vorschlag zu stoppen mit einem schwerwiegenden Einwand](einwand.jpg)
 
 #### Bei Einwand: Vertagung oder Integration des Einwandes
 

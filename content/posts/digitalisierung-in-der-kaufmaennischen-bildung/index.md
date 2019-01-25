@@ -29,7 +29,7 @@ Irgendwie scheint es unpassend, von radikalen Umwälzungen zu sprechen, während
 
 Wenn es solche Phänomene gibt, gibt es meist jemanden, der das in ein schönes Modell packt. In diesem Fall ist es Dr. Ruben Puentedura, der mit dem [SAMR Modell](http://hippasus.com/rrpweblog/archives/2015/10/SAMR_ABriefIntro.pdf) verschiedene Stufen aufzeigt, wie neue Technologien unsere Lernprozesse verändern können.
 
-![SAMR Modell](SAMR-Modell.png)
+![Ruben R. Puentedura, As We May Teach: Education Technology, From Theory Into Practice, 2009](SAMR-Modell.png)
 
 Es ist ganz schwierig, aus unserer "Box" zu kriechen. Aber versuchen sollten wir es zumindest.
 

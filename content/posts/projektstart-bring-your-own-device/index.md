@@ -53,9 +53,7 @@ Die _Projektgruppe BYOD_ besteht aus 7 Mitgliedern der Grundbildung am bwd. Da e
 
 Personell ergibt sich aktuell folgende Zusammenstellung:
 
-![Organisation BYOD und AG bwd digital](organisation.png)
-
-_Ja, es sind drei verschiedene Marcos... ;-)_
+![Organisation BYOD und AG bwd digital: Ja, es sind drei verschiedene Marcos... ;-)](organisation.png)
 
 ### Fällen von Entscheidungen
 
