@@ -37,6 +37,17 @@ In [Persönlicher Lernblog - eine Idee und Vision](/lernblog-idee/) habe ich ver
 
 Mit dem [Projekt BYOD und der AG bwd digital](/projektstart-bring-your-own-device/) haben wir am bwd Bern zwei Gruppen initiiert, welche sich aufmachen, zu entdecken, was möglich ist, was sinnvoll ist und Lust macht auf Lernen.
 
+
+## Weiterführende Texte
+
+Wer sich weiter in dieses Thema vertiefen möchte, welche Auswirkungen die Digitalisierung auf die kaufmännische Bildung haben könnte, dem empfehle ich folgende Lektüre. Es ist nicht einfach, dieses Thema "nüchtern" anzugehen. Es gilt aber jeweils zu beurteilen und unterscheiden zwischen Auswirkungen, die reine Spekulation sind und solchen, die bereits heute in der Realität angekommen sind.
+
+* HWZ-Studie: [Digitalisierung und die Zukunft kaufmännischer Berufsbilder](https://fh-hwz.ch/content/uploads/2016/11/Digitalisierung-und-die-Zukunft-betriebswirtschaftlicher-Berufsbilder_Schlussbericht.pdf)
+* WirtschaftsWoche: [Die Arbeitswelt wird sich komplett auf links drehen](https://www.wiwo.de/unternehmen/mittelstand/hannovermesse/jobs-der-zukunft-die-arbeitswelt-wird-sich-komplett-auf-links-drehen/20828426-all.html)
+* Tagesanzeiger: [Bis zu 100'000 KV-Jobs gefährdet](https://www.tagesanzeiger.ch/wirtschaft/standardbis-zu-100-000-kvjobs-gefaehrdet/story/10970837)
+* Dissertation von Eva-Maria Schulz: [Förderung von Selbstkompetenzen bei Lernenden
+an kaufmännischen Berufsschulen](https://opus4.kobv.de/opus4-fau/frontdoor/index/index/searchtype/series/id/10/docId/9643/start/0/rows/10) (oder [direkter Link zum PDF](https://opus4.kobv.de/opus4-fau/files/9643/F%C3%B6rderung+von+Selbstkompetenzen+bei+Lernenden+an+kaufm%C3%A4nnischen+Berufsschulen_A5_opus.pdf))
+
 ---
 
 <small><em>Bildquelle: Tisch mit Blätter und Laptops von [Shopify Partners](https://burst.shopify.com/photos/office-meeting-flatlay) (free license), SAMR-Modell von [Dr. Ruben Puentedura](http://hippasus.com/rrpweblog/archives/2015/10/SAMR_ABriefIntro.pdf)</em></small>
