@@ -73,7 +73,17 @@ _War nicht allzu viel Zeit dafür. Haben aber ein paar Stichworte gesammelt:_
 ### 8.	Nächste Treffen
 
 - Zeitressourcen (Mandat von Marco J. von 10%, ca. 200 Stunden im Jahr 2019, Verfügbarkeit anderer Teammitglieder)
--	Vorschlag: vorläufig ca. monatlicher Austausch mittels Treffen vor Ort, Abwesende schalten sich allenfalls per Videokonferenz dazu: Termine aufschalten für die nächsten 6 Monate, nächster Termin Ende Februar 
+-	Vorschlag: vorläufig ca. monatlicher Austausch mittels Treffen vor Ort, Abwesende schalten sich allenfalls per Videokonferenz dazu.
+
+#### Termine
+
+Dies sind vorläufig unsere nächsten Termine. Zum Teil werden sich Leute per Videokonferenz zuschalten oder wir machen sie komplett virtuell.
+
+- Dienstag, 26. Februar 2019, 17.45 Uhr.
+- Dienstag, 26. März 2019, 17.45 Uhr.
+- Dienstag, 30. April 2019, 17.45 Uhr.
+- Dienstag, 28. Mai 2019, 17.45 Uhr.
+
 
 ### 9. Nächste Schritte
 
