@@ -3,6 +3,7 @@ title: Ideen für Blogeinträge
 description: "..."
 date: 2019-01-17
 image: /img/default-img.jpg
+draft: true
 ---
 
 ## Schule bringt nichts - ein Gedankenexperiment
