@@ -5,9 +5,9 @@
 		<div class="col-md-8 col-md-offset-2">
 			<div class="mainheading">
 				<div class="row post-top-meta authorpage">
-					<div class="col-md-10 col-xs-12">
+					<div class="col-md-8 col-xs-12">
 						<h1>{{ .Title }}</h1>
-						<span class="author-description">Bald steht hier hoffentlich mehr über mich...</span>
+							{{ .Content }}	
 						{{/*  <div class="sociallinks">
               <a target="_blank" href="mailto:{{ .Site.Params.email }}"><i class="far fa-envelope"></i></a>
               <span class="dot"></span>
@@ -17,7 +17,7 @@
               <a target="_blank" href="mailto:{{ .Site.Params.email }}" class="btn follow"><i class="far fa-envelope"></i> {{ .Site.Params.email }}</a>
             </div>
 					</div>
-					<div class="col-md-2 col-xs-12">
+					<div class="col-md-4 col-xs-12">
 						<img class="author-thumb" src="{{ .Params.image }}" alt="">
 					</div>
 				</div>

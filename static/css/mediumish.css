@@ -131,6 +131,8 @@ section {
 }
 .post-top-meta.authorpage .author-thumb {
   margin-top: 40px;
+  width: 160px;
+  height: 160px;
 }
 .post-top-meta span {
   color: rgba(0, 0, 0, 0.44);
