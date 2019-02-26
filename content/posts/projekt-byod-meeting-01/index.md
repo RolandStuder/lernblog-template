@@ -1,6 +1,6 @@
 ---
 title: Projekt BYOD Meeting 01
-description: 'Meeting Nr. 01 der Projektgruppe "Bring Your Own Device" vom 25.01.2019'
+description: 'Bericht und Protokoll zum ersten Meeting der Projektgruppe "Bring Your Own Device" am bwd Bern.'
 date: 2019-01-25
 image: byod-meeting.jpg
 ---

@@ -74,7 +74,7 @@ Beim _soziokratischen Konsent_ stellt man nicht die Frage, wer mit einem Vorschl
 Diese Entscheidungsform hat ein paar entscheidende Vorteile als Gruppe:
 
 - Vorschläge kommen schneller durch, weil man nicht eine Lösung finden muss, die allen passt, sondern eine Lösung, "mit der alle leben können".
-- Es entsteht eine Kultur der Innovation. Es wird nicht gewartet auf die perfekte Lösung, die dann nie kommt. Man spricht auch von einem ["good enought for now and safe enought to try"](https://medium.com/@almerudcaspian/good-enough-for-now-safe-enough-to-try-9dec91f0af07). 
+- Es entsteht eine Kultur der Innovation. Es wird nicht gewartet auf die perfekte Lösung, die dann nie kommt. Man spricht auch von einem ["good enough for now and safe enough to try"](https://medium.com/@almerudcaspian/good-enough-for-now-safe-enough-to-try-9dec91f0af07). 
 - Jede Person wird angehört und ernst genommen. Mit einem "schwerwiegenden Einwand" haben alle eine Art Veto-Recht und können den Vorschlag stoppen, wenn sie denken, dass es die Gruppe in Schwierigkeiten bringen könnte.
 
 ### Beispiel für einen Entscheid

@@ -51,7 +51,7 @@ Wenn ein Einwand formuliert wurde, hat der Moderator zwei Möglichkeiten: Je nac
 Die Entscheidungsform nach _soziokratischem Konsent_ hat ein paar entscheidende Vorteile:
 
 - Vorschläge kommen schneller durch, weil man nicht eine Lösung finden muss, die allen passt, sondern eine Lösung, "mit der alle leben können".
-- Es entsteht eine Kultur der Innovation. Es wird nicht gewartet auf die perfekte Lösung, die dann nie kommt. Man spricht auch von einem ["good enought for now and safe enought to try"](https://medium.com/@almerudcaspian/good-enough-for-now-safe-enough-to-try-9dec91f0af07).
+- Es entsteht eine Kultur der Innovation. Es wird nicht gewartet auf die perfekte Lösung, die dann nie kommt. Man spricht auch von einem ["good enough for now and safe enough to try"](https://medium.com/@almerudcaspian/good-enough-for-now-safe-enough-to-try-9dec91f0af07).
 - Jede Person wird angehört und ernst genommen. Mit einem "schwerwiegenden Einwand" erhalten alle eine Art Veto-Recht und können den Vorschlag stoppen, wenn sie denken, dass es die Gruppe in Schwierigkeiten bringen könnte.
 - Der Vorschlag muss nicht "verwässert" werden, weil man eine Mehrheit dafür gewinnen muss. Das macht mehr Freude, sich zu engagieren.
 - Es ist klar, wer die Verantwortung trägt (die vorschlagende Person). Trotzdem kann niemand dieser Person später in den Rücken fallen, wenn es nicht gut rauskommt. Denn jede Person hätte ja mit einem "schwerwiegenden Einwand" das Vorhaben stoppen können und muss sich somit hinter den Vorschlag stellen, wenn sie das nicht getan hat.
