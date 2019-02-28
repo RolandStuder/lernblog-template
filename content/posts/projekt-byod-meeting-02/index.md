@@ -31,9 +31,20 @@ Keine Ergänzungen
 
 Inspiration von der kaufmännischen Berufsschule Thun über BYOD von Marco S. Was können wir daraus lernen?
 
-- Wichtig: es gibt 5 Handlungsfelder, wir dürfen nicht nur einfach aufs Gerät schauen.
+- Wichtig: wir dürfen nicht nur einfach aufs Gerät schauen.
 - Bsp: Braucht es nach wie vor PC-Zimmer, z.B. für den IKA-Unterricht, auf die im Notfall ausgewichen werden kann?
 - Bsp: wie sieht die Situation am QV aus?
+
+Fazit für eine Erfolgreiche Umsetzung von BYOD sind die fünf Handlungsfelder:
+
+- Organisationsentwicklung (Leitbild, Zielsetzung...)
+- Unterrichtsentwicklung (Methodenvielfalt, Sozialformen...)
+- Personalentwicklung (pädagogisches und technisches Fachwissen)
+- Technologieentwicklung (Internetbandbreite, IT-Sicherheit...)
+- Kooperationsentwicklung (Kooperationsplattformen...)
+
+Weiter muss eine klare Trennschärfe festgelegt werden respektive die Zuständigkeiten müssen klar definiert werden.
+
 
 ### 4.Teilnahme Anlass «AG Services» (Karin)
 
