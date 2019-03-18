@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "de"
+removePathAccents = true
+preserveTaxonomyNames = true
+disableFastRender = true
+buildFuture = true
+
+theme = "lernblog"
+
+[permalinks]
+posts = "/:filename/"
+tags = "/tag/:slug/"
+
+[taxonomies]
+tag = "tags"

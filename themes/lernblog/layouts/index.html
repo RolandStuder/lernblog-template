@@ -1,0 +1,35 @@
+{{ define "main" }}
+<!-- Begin Site Title
+================================================== -->
+<div class="container">
+	<div class="mainheading">
+		<h1 class="sitetitle">{{ .Site.Data.settings.home.title }}</h1>
+		<p class="lead">
+			 {{ .Site.Data.settings.home.subtitle }}
+		</p>
+	</div>
+<!-- End Site Title
+================================================== -->
+
+
+<!-- Begin List Posts -->
+<section class="recent-posts">
+	<!-- <div class="section-title">
+		<h2><span>Alle Blogeinträge</span></h2>
+	</div> -->
+	<div class="card-deck listrecent">
+			{{ range (where (where .Pages "Section" "posts") "Params.featured" "==" true ) }}
+				{{ partial "post_card.html" . }}
+			{{ end }}
+			{{ range where .Pages "Section" "posts" }}
+				{{ if not .Params.featured }}
+					{{ partial "post_card.html" . }}
+				{{ end }}
+			{{ end }}
+		</div>
+	</section>
+	<!-- End List Posts -->
+
+</div>
+<!-- /.container -->
+{{ end }}

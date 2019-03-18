@@ -1,10 +1,10 @@
----
-title: Persönlicher Lernblog - Idee und Vision
-description: Der persönliche Lernblog ist eine Website, auf der eine Person laufend notiert, was sie entdeckt, erarbeitet oder lernt.
-date: 2019-01-18
-image: schreibmaschine.jpg
-featured: true
----
++++
+title = "Persönlicher Lernblog - Idee und Vision"
+description = "Der persönliche Lernblog ist eine Website, auf der eine Person laufend notiert, was sie entdeckt, erarbeitet oder lernt."
+date = 2019-01-18T00:00:00.000Z
+image = "schreibmaschine.jpg"
+featured = true
++++
 
 Was entsteht, wenn wir die Schlagworte "Digitalisierung", "Industrie 4.0" und "Lebenslanges Lernen" in einen Mixer geben? Vielleicht nur Schaum. Aber versuchen wir mal trotz der Unschärfe dieser Begriffe daraus eine Idee zu entwickeln.
 

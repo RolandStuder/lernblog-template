@@ -1,0 +1,31 @@
+<div class="footer">
+  <div class="container mt-2 text-center">
+    {{ if .Site.Data.settings.general.tinyLetter }}
+      <h4><i class="fas fa-envelope-open-text"></i> Newsletter</h4>
+      <p>Erhalte eine E-Mail, wenn ich neue Blogartikel aufschalte.</p>
+      <form
+        class="newsletter-form form-inline justify-content-center"
+        action="https://tinyletter.com/{{ .Site.Data.settings.general.tinyLetter }}"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://tinyletter.com/{{ .Site.Data.settings.general.tinyLetter }}', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"
+      >
+      <div class="form-group mb-4 mr-2">
+        <input
+          class="form-control"
+          type="text"
+          name="email"
+          id="tlemail"
+          placeholder="Deine E-Mail-Adresse"
+        />
+      </div>
+      <input type="hidden" value="1" name="embed" />
+      <input class="btn mb-4" type="submit" value="Anmelden" />
+      </form>
+    {{ end }}
+
+    <p>
+      Copyright &copy; by {{ .Site.Data.settings.about.name }}
+    </p>
+  </div>
+</div>

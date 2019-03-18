@@ -1,0 +1,19 @@
+<div class="card">
+  <a href="{{ .RelPermalink }}" class="stretched-link"></a>
+  {{ if .Params.featured }}
+    <span class="card-pin"><i class="fas fa-thumbtack"></i></span>
+  {{ end }}
+  <div class="card-image" style="background-image:url({{ if not (hasPrefix .Params.image "/") }}{{ .RelPermalink }}{{ end }}{{ .Params.image }});"></div>
+  <div class="card-body">
+    <h2 class="card-title">{{ .Params.title }}</h2>
+    <h4 class="card-text">{{ .Params.description }}</h4>
+  </div>
+  <div class="card-footer">
+    <span class="meta-footer-thumb">
+      <img class="author-thumb" src="{{ .Site.Data.settings.about.image }}" alt="">
+    </span>
+    <span class="author-meta">
+    <span class="post-name">{{ .Site.Data.settings.about.name }}</span><br/>
+    {{ partial "post_date.html" . }}
+  </div>
+</div>

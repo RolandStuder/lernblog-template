@@ -1,0 +1,31 @@
+{{ block "variables" . -}}
+	{{ if not .IsHome -}}
+		{{ .Scratch.Set "title" (print .Params.title " | " .Site.Data.settings.general.title ) -}}
+	{{ else -}}
+		{{ .Scratch.Set "title" .Site.Data.settings.general.title -}}
+	{{ end -}}
+	
+	{{ .Scratch.Set "description" .Params.description -}}
+
+	{{ .Scratch.Set "image" .Params.image -}}
+{{ end -}}
+
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+<head>
+	{{ partial "head.html" . }}
+	{{ block "head_includes" . }}{{ end }} 
+</head>
+<body>
+{{ partial "navigation.html" . -}}
+
+{{ block "main" . }}{{ end }}
+
+{{ partial "footer.html" . -}}
+
+<script src="/js/jquery.min.js"></script>
+<script src="/js/popper.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/app.js"></script>
+</body>
+</html>

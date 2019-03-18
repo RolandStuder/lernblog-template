@@ -1,0 +1,218 @@
+backend:
+  name: git-gateway
+
+media_folder: "static/img"
+public_folder: "img"
+
+collections:
+  - label: "Blogeinträge"
+    label_singular: "Blogeintrag"
+    description: >
+      Hier können Blogeinträge verfasst, editiert und gelöscht werden.
+    name: "posts"
+    folder: "content/posts"
+    create: true
+    format: toml-frontmatter
+    fields:
+      - {
+          label: "Titel",
+          name: "title",
+          widget: "string",
+          hint: "Beim ersten Speichern wird der Titel zur URL des Blogartikels.",
+        }
+      - {
+          label: "Datum",
+          name: "date",
+          widget: "date",
+          dateFormat: "DD.MM.YYYY",
+        }
+      - {
+          label: "Entwurfsmodus",
+          name: "draft",
+          widget: "boolean",
+          required: false,
+          hint: "Einträge im Entwurfsmodus werden nicht angezeigt.",
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "list",
+          hint: "Mehrere Tags durch Komma trennen.",
+        }
+      - {
+          label: "Zusammenfassung",
+          name: "description",
+          widget: "text",
+          hint: "Kurze Beschreibung für Blogübersicht, Suchmaschinen und Social Media (ca. 2 Sätze).",
+        }
+      - { label: "Bild", name: "image", widget: "image" }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
+  - label: "Unterseiten"
+    label_singular: "Unterseite"
+    name: "pages"
+    folder: "content/pages"
+    create: true
+    format: "toml-frontmatter"
+    fields:
+      - { label: "Titel", name: "title", widget: "string" }
+      - {
+          label: "Entwurfsmodus",
+          name: "draft",
+          widget: "boolean",
+          required: false,
+          hint: "Seiten im Entwurfsmodus werden nicht angezeigt.",
+        }
+      - {
+          label: "Menuposition",
+          name: "menu",
+          widget: "number",
+          required: false,
+          hint: "Position innerhalb der Navigation. Wenn leer, ist die Seite aufrufbar, wird aber nicht in der Navigation angezeigt.",
+        }
+      - {
+          label: "Zusammenfassung",
+          name: "description",
+          widget: "text",
+          hint: "Kurze Beschreibung für Suchmaschinen und Social Media (ca. 2 Sätze).",
+        }
+      - {
+          label: "Bild",
+          name: "image",
+          widget: "image",
+          hint: "Wird bei Social Media angezeigt, wenn die Seite geteilt wird.",
+        }
+      - { label: "Inhalt", name: "body", widget: "markdown" }
+  - label: "Einstellungen"
+    name: "settings"
+    delete: false
+    editor:
+      preview: false
+    format: "toml"
+    files:
+      - label: "Homepage"
+        name: "home"
+        file: "data/settings/home.toml"
+        fields:
+          - { label: "Titel", name: "title", widget: "string" }
+          - { label: "Untertitel", name: "subtitle", widget: "string" }
+          - {
+              label: "Beschreibung",
+              name: "description",
+              widget: "string",
+              hint: "Eine kurze Beschreibung für Suchmaschinen und Social Media (ca. 2 Sätze).",
+            }
+      - label: "Profil"
+        name: "about"
+        file: "data/settings/about.toml"
+        fields:
+          - {
+              label: "Titel",
+              name: "title",
+              widget: "string",
+              hint: "Titel der Profilseite",
+            }
+          - {
+              label: "Zusammenfassung",
+              name: "description",
+              widget: "text",
+              hint: "Kurze Beschreibung der Profilseite für Suchmaschinen und Social Media (ca. 2 Sätze).",
+            }
+          - { label: "Name", name: "name", widget: "string", hint: "Dein Vor- und Nachname." }
+          - { label: "Profilbild", name: "image", widget: "image", hint: "Kleines Bild (muss quadratisch sein)." }
+          - label: "Social Media"
+            name: "social"
+            widget: "list"
+            fields: 
+              - label: "Medium"
+                name: "medium"
+                widget: "select"
+                options:
+                - { label: "E-Mail", value: "email" }
+                - { label: "Instagram", value: "instagram" }
+                - { label: "Twitter", value: "twitter" }
+                - { label: "Facebook", value: "facebook" }
+              - label: "User"
+                name: "username"
+                widget: "string"
+                hint: "Entweder Benutzername oder die E-Mail-Adresse."
+          - { label: "Inhalt", name: "body", widget: "markdown" }
+      - label: "Allgemein"
+        name: "general"
+        file: "data/settings/general.toml"
+        fields:
+          - {
+              label: Seitentitel,
+              name: title,
+              widget: string,
+              hint: "Wird im Tab des Browsers angezeigt.",
+            }
+          - {
+              label: Domainname,
+              name: domain,
+              widget: string,
+              hint: "Ganzer Domainname der Website mit 'https://...'",
+            }
+          - {
+              label: Favicon,
+              name: favicon,
+              widget: image,
+              hint: "Kleines Bild für das Browser-Tab (muss quadratisch sein).",
+            }
+          - {
+              label: Logo,
+              name: logo,
+              widget: image,
+              hint: "Kleines Logo für die Navigation.",
+            }
+          - {
+              label: Standardbild,
+              name: primaryImage,
+              widget: image,
+              hint: "Standardbild, das angezeigt wird, wenn kein anderes Bild vorhanden ist.",
+            }
+          - {
+              label: TinyLetter,
+              name: tinyLetter,
+              widget: string,
+              hint: "TinyLetter Username, wenn man eine Newsletteranmeldung möchte (Registrierung auf tinyletter.com).",
+              required: false,
+            }
+      - label: "Design"
+        name: "design"
+        file: "data/settings/design.toml"
+        fields:
+          - {
+              label: "Hauptfarbe",
+              name: "mainColor",
+              widget: "string",
+              hint: "Für Links, Zitate, Buttons, etc. (als Hex-Farbcode).",
+              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+            }
+          - {
+              label: "Akzentfarbe",
+              name: "accentColor",
+              widget: "string",
+              hint: "Für aktive Links, etc. (als Hex-Farbcode).",
+              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+            }
+          - {
+              label: "Hintergrundfarbe Navigation",
+              name: "navigationBackgroundColor",
+              widget: "string",
+              hint: "Hintergrundfarbe der Navigation (als Hex-Farbcode).",
+              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+            }
+          - {
+              label: "Textfarbe Navigation",
+              name: "navigationTextColor",
+              widget: "string",
+              hint: "Textfarbe der Navigation (als Hex-Farbcode).",
+              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+            }
+          - {
+              label: "Textfarbe Navigation aktiv",
+              name: "navigationTextColorActive",
+              widget: "string",
+              hint: "Textfarbe der Navigation für das aktive Element (als Hex-Farbcode).",
+              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+            }

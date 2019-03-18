@@ -1,10 +1,10 @@
----
-title: Zitate
-description: "..."
-date: 2019-01-17
-image: /img/default-img.jpg
-draft: true
----
++++
+title = "Zitate"
+description = "..."
+date = 2019-01-17T00:00:00.000Z
+image = "/img/default-img.jpg"
+draft = true
++++
 
 ## Edward Snowden
 

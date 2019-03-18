@@ -1,9 +1,9 @@
----
-title: Projekt BYOD Meeting 02
-description: 'Bericht und Protokoll zum zweiten Meeting der Projektgruppe "Bring Your Own Device" am bwd Bern.'
-date: 2019-02-26
-image: byod-meeting.jpg
----
++++
+title = "Projekt BYOD Meeting 02"
+description = "Bericht und Protokoll zum zweiten Meeting der Projektgruppe \"Bring Your Own Device\" am bwd Bern."
+date = 2019-02-26T00:00:00.000Z
+image = "byod-meeting-02.jpg"
++++
 
 Termine zu finden mit 7 Personen ist eine Herausfoderung. Es scheint aber zu klappen, dass wir uns mehr oder weniger einmal pro Monat vor Ort oder über Video sehen bis im Sommer.
 

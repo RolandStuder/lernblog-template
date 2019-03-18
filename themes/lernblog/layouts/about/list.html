@@ -1,0 +1,58 @@
+{{ define "variables" }}
+{{ .Scratch.Set "title" (print .Site.Data.settings.about.title " | " .Site.Data.settings.general.title ) -}}
+{{ .Scratch.Set "description" .Site.Data.settings.about.description -}}
+{{ .Scratch.Set "image" .Site.Data.settings.about.image -}}
+{{ end }}
+
+{{ define "main" }}
+<div class="container">
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8 col-md-offset-2">
+			<div class="mainheading">
+				<div class="row post-top-meta authorpage">
+					<div class="col-md-8 col-xs-12">
+						<h1>{{ .Site.Data.settings.about.title }}</h1>
+
+						{{ .Site.Data.settings.about.body | markdownify }}
+					</div>
+					<div class="col-md-4 col-xs-12 text-center">
+						<img class="author-thumb" src="{{ .Site.Data.settings.about.image }}" alt="">
+						<h3 class="mt-3">{{ .Site.Data.settings.about.name }}</h3>
+						<div class="sociallinks">
+							{{ range $i, $e := .Site.Data.settings.about.social }}
+								{{ if eq $e.medium "email" }}
+									<a target="_blank" href="mailto:{{ $e.username }}" title="{{ $e.username }}"
+									class="btn follow"> 
+										<i class="far fa-envelope"></i>
+									</a>
+								{{ end}}
+								{{ if eq $e.medium "instagram" }}
+									<a target="_blank" href="https://www.instagram.com/{{ $e.username }}" title="{{ $e.username }}"
+										class="btn follow">
+											<i class="fab fa-instagram"></i>
+									</a>
+								{{ end}}
+								{{ if eq $e.medium "twitter" }}
+									<a target="_blank" href="https://www.twitter.com/{{ $e.username }}" title="{{ $e.username }}"
+										class="btn follow">
+											<i class="fab fa-twitter"></i>
+									</a>
+								{{ end}}
+								{{ if eq $e.medium "facebook" }}
+									<a target="_blank" href="https://www.facebook.com/{{ $e.username }}" title="{{ $e.username }}"
+										class="btn follow">
+											<i class="fab fa-facebook"></i>
+									</a>
+								{{ end}}
+							{{ end }}
+
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{{ end }}

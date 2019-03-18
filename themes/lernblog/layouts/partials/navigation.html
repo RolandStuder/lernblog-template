@@ -1,0 +1,50 @@
+<nav class="navbar navbar-expand-sm navbar-light fixed-top mediumnavigation">
+  <div class="container">
+    <a class="navbar-brand" href="/">
+      <img src="{{ .Site.Data.settings.general.logo }}" alt="logo">
+    </a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <!-- Begin Menu -->
+      <ul class="navbar-nav ml-auto">
+        {{ $currentUrl := .URL }}
+        <li class="nav-item">
+          <a class="nav-link {{ if eq $currentUrl "/" }}active{{ end }}" href="/">Home</a>
+        </li>
+        {{ range sort (where .Site.RegularPages "Section" "pages") "Params.menu" "asc" }}
+          {{ if .Params.menu }}
+          <li class="nav-item">
+            <a class="nav-link {{ if eq .URL $currentUrl }}active{{ end }}" href="{{ .URL }}">{{ .Title }}</a>
+          </li>
+          {{ end }}
+        {{ end }}
+        {{ with .Site.Data.settings.about }}
+        <li class="nav-item">
+          <a class="nav-link {{ if eq $currentUrl "/about/" }}active{{ end }}" href="/about/">{{ .title }}</a>
+        </li>
+        {{ end }}
+        
+        {{ if .Site.Data.settings.general.tinyLetter }}
+        <li class="nav-item">
+          <a class="nav-link" target="_blank" href="https://tinyletter.com/{{ .Site.Data.settings.general.tinyLetter }}"><i class="fas fa-envelope-open-text"></i> Newsletter</a>
+        </li>
+        {{ end }}
+
+      </ul>
+      <!-- End Menu -->
+
+      {{ with .Site.Data.settings.general.domain }}
+      <!-- Begin Search -->
+      <form class="form-inline my-2 my-lg-0 ml-sm-3" action="https://google.com/search" method="get">
+        <input type="hidden" name="as_sitesearch" value="{{ . }}">
+        <input name="q" class="form-control mr-sm-2" type="text" placeholder="Suchen">
+        <button type="submit" class="search-icon btn"><svg class="svgIcon-use" width="25" height="25" viewbox="0 0 25 25"><path d="M20.067 18.933l-4.157-4.157a6 6 0 1 0-.884.884l4.157 4.157a.624.624 0 1 0 .884-.884zM6.5 11c0-2.62 2.13-4.75 4.75-4.75S16 8.38 16 11s-2.13 4.75-4.75 4.75S6.5 13.62 6.5 11z"></path></svg></button>
+      </form>
+      <!-- End Search -->
+      {{ end }}
+    </div>
+  </div>
+</nav>

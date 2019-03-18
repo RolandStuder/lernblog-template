@@ -1,10 +1,10 @@
----
-title: Bewerten oder nicht
-description: "..."
-date: 2019-01-17
-image: /img/default-img.jpg
-draft: true
----
++++
+title = "Bewerten oder nicht"
+description = "..."
+date = 2019-01-17T00:00:00.000Z
+image = "/img/default-img.jpg"
+draft = true
++++
 
 Die Frage ist, ob ein Lernblog, im Sinne von Portfolios, bewertet werden soll. Wie viel Selbstbestimmung, oder ist es nur Selbststeuerung.
 

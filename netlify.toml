@@ -4,3 +4,15 @@ command = "hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.53"
+
+[[redirects]]
+  from = "https://www.marco-jakob.com/*"
+  to = "https://www.marco-jakob.ch/:splat"
+  
+[[redirects]]
+  from = "https://marco-jakob.com/*"
+  to = "https://www.marco-jakob.ch/:splat"
+
+[[redirects]]
+  from = "https://marcojakob.netlify.com/*"
+  to = "https://www.marco-jakob.ch/:splat"

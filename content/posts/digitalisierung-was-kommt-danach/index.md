@@ -1,9 +1,9 @@
----
-title: "Digitalisierung: was kommt danach?"
-description: "Habe heute mal ein Heft gekauft am Kiosk. Hier meine Eindrücke und Zitate daraus, die mir gefallen oder mich zum Nachdenken angeregt haben."
-date: 2019-01-24
-image: digitalisierung-t3n-cover.jpg
----
++++
+title = "Digitalisierung: was kommt danach?"
+description = "Habe heute mal ein Heft gekauft am Kiosk. Hier meine Eindrücke und Zitate daraus, die mir gefallen oder mich zum Nachdenken angeregt haben."
+date = 2019-01-24T00:00:00.000Z
+image = "digitalisierung-t3n-cover.jpg"
++++
 
 Habe heute mal ein Heft gekauft am Kiosk: [t3n Magazin Nr. 54](https://t3n.de/ausgabe/t3n-nr-54-was-kommt-nach-der-digitalisierung/) mit dem Schwerpunktthema: "Was kommt nach der Digitalisierung?" Ich nutze nun diesen Blog als mein **digitales Notizbuch** für Eindrücke und Zitate aus dem Heft. So finde ich diese später wieder und kann den einen oder anderen Gedanken weiter vertiefen.
 

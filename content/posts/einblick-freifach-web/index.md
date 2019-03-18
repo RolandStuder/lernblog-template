@@ -1,9 +1,9 @@
----
-title: "Einblick ins Freifach Web"
-description: "Im Freifach Web am bwd Bern geht es natürlich um Webseiten, aber auch um eigene Projekt- und Businessideen. Hier ein kleiner Einblick."
-date: 2019-02-20
-image: web.png
----
++++
+title = "Einblick ins Freifach Web"
+description = "Im Freifach Web am bwd Bern geht es natürlich um Webseiten, aber auch um eigene Projekt- und Businessideen. Hier ein kleiner Einblick."
+date = 2019-02-20T00:00:00.000Z
+image = "web.png"
++++
 
 Im Freifach Web am [bwd Bern](https://www.bwdbern.ch) geht es einerseits darum, eine **Website zu designen und veröffentlichen** und andererseits Grundlagen zu schaffen für **eigene Projekt- und Businessideen**.
 

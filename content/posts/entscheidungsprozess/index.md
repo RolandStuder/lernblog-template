@@ -1,9 +1,9 @@
----
-title: Entscheidungsprozess
-description: Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit soziokratischem Konsent.
-date: 2019-01-20
-image: meeting.jpg
----
++++
+title = "Entscheidungsprozess"
+description = "Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit soziokratischem Konsent."
+date = 2019-01-20T00:00:00.000Z
+image = "meeting.jpg"
++++
 
 Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit **soziokratischem Konsent**.
 
