@@ -15,6 +15,8 @@
 <head>
 	{{ partial "head.html" . }}
 	{{ block "head_includes" . }}{{ end }} 
+
+	<script defer src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 {{ partial "navigation.html" . -}}
@@ -27,5 +29,6 @@
 <script src="/js/popper.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/app.js"></script>
+
 </body>
 </html>
