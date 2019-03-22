@@ -4,7 +4,3 @@ command = "hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.53"
-
-[[redirects]] 
-  from = "/*"
-  to = "/about/:splat"

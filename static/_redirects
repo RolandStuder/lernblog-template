@@ -1,0 +1,6 @@
+# Redirect domain aliases to primary domain
+https://www.marco-jakob.com/* https://www.marco-jakob.ch/:splat 301!
+https://marco-jakob.com/* https://www.marco-jakob.ch/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://marcojakob.netlify.com/* https://www.marco-jakob.ch/:splat 301!
