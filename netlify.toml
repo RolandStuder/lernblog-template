@@ -5,7 +5,11 @@ command = "hugo"
 [context.production.environment]
 HUGO_VERSION = "0.53"
 
-[[redirects]]
+[[redirects]] 
+  from = "/*"
+  to = "/about/:splat"
+
+[[redirects]] 
   from = "https://www.marco-jakob.com/*"
   to = "https://www.marco-jakob.ch/:splat"
   
