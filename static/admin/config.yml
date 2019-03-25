@@ -30,7 +30,6 @@ collections:
           label: "Entwurfsmodus",
           name: "draft",
           widget: "boolean",
-          required: false,
           hint: "Einträge im Entwurfsmodus werden nicht angezeigt.",
         }
       - {

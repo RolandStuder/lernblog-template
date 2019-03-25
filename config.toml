@@ -5,8 +5,6 @@ preserveTaxonomyNames = true
 disableFastRender = true
 buildFuture = true
 
-theme = "lernblog"
-
 [permalinks]
 posts = "/:filename/"
 tags = "/tag/:slug/"
