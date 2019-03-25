@@ -1,7 +1,8 @@
 +++
 title = "test2"
 date = 2019-03-25T15:46:08.094Z
-tags = ["aaa"]
+draft = false
+tags = ["aaas"]
 description = "asdfasdfa"
 image = "/img/default.jpg"
 +++
