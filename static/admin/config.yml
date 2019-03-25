@@ -66,8 +66,8 @@ collections:
           label: "Entwurfsmodus",
           name: "draft",
           widget: "boolean",
-          required: false,
           hint: "Seiten im Entwurfsmodus werden nicht angezeigt.",
+          default: false,
         }
       - {
           label: "Menuposition",
