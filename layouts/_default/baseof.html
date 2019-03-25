@@ -19,15 +19,20 @@
 	<script defer src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
-{{ partial "navigation.html" . -}}
+<header>
+	{{ partial "navigation.html" . -}}
+</header>
 
-{{ block "main" . }}{{ end }}
-
-{{ partial "footer.html" . -}}
+<div class="site-content">
+	{{ block "main" . }}{{ end }}
+	
+	{{ partial "footer.html" . -}}
+</div>
 
 <script src="/js/jquery.min.js"></script>
 <script src="/js/popper.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
+<script src="/js/medium-zoom.min.js"></script>
 <script src="/js/app.js"></script>
 
 </body>

@@ -14,6 +14,7 @@ a:hover {
 .mediumnavigation {
   background: rgba(255, 255, 255, 0.97);
   box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.15);
+  transition: top .2s ease-in-out;
 }
 section {
   margin-bottom: 20px;
@@ -40,15 +41,14 @@ section {
 
 .listrecent .card {
   margin-bottom: 20px;
-  transition: box-shadow .2s ease-in-out;
+  transition: box-shadow 0.2s ease-in-out;
 }
 
 @media (min-width: 576px) {
   .listrecent .card:hover {
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)
+    box-shadow: 0 0.3rem 1rem 0.3rem rgba(0, 0, 0, 0.15);
   }
 }
-
 
 .listrecent .card-image {
   border-top-right-radius: 0.25rem;
@@ -265,13 +265,13 @@ blockquote {
   margin: 0 0 1.5rem 0;
 }
 .wrapfeatured-image {
-	margin: 0px auto;
-	max-width: 1000px;
-	margin-bottom: 1.5rem;
-} 
+  margin: 0px auto;
+  max-width: 1000px;
+  margin-bottom: 1.5rem;
+}
 .featured-image {
-	max-width: 100%;
-	height: auto;
+  max-width: 100%;
+  height: auto;
 }
 .share {
   text-align: center;
@@ -472,52 +472,4 @@ ul.tags li a:hover {
   font-size: 80%;
   color: #6c757d;
   font-style: italic;
-}
-
-/**
-* zoom.js - It's the best way to zoom an image
-* @version v0.0.2
-* @link https://github.com/fat/zoom.js
-* @license MIT
-*/
-img[data-action="zoom"] {
-  cursor: pointer;
-  cursor: -webkit-zoom-in;
-  cursor: zoom-in;
-}
-.zoom-img,
-.zoom-img-wrap {
-  position: relative;
-  z-index: 1160;
-  -webkit-transition: all 300ms;
-  -o-transition: all 300ms;
-  transition: all 300ms;
-}
-img.zoom-img {
-  cursor: pointer;
-  cursor: -webkit-zoom-out;
-  cursor: -moz-zoom-out;
-}
-.zoom-overlay {
-  z-index: 1060;
-  background: #fff;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  pointer-events: none;
-  filter: "alpha(opacity=0)";
-  opacity: 0;
-  -webkit-transition: opacity 300ms;
-  -o-transition: opacity 300ms;
-  transition: opacity 300ms;
-}
-.zoom-overlay-open .zoom-overlay {
-  filter: "alpha(opacity=100)";
-  opacity: 1;
-}
-.zoom-overlay-open,
-.zoom-overlay-transitioning {
-  cursor: default;
 }
