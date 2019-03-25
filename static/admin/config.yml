@@ -31,6 +31,7 @@ collections:
           name: "draft",
           widget: "boolean",
           hint: "Einträge im Entwurfsmodus werden nicht angezeigt.",
+          default: true,
         }
       - {
           label: "Tags",
@@ -116,20 +117,30 @@ collections:
               widget: "text",
               hint: "Kurze Beschreibung der Profilseite für Suchmaschinen und Social Media (ca. 2 Sätze).",
             }
-          - { label: "Name", name: "name", widget: "string", hint: "Dein Vor- und Nachname." }
-          - { label: "Profilbild", name: "image", widget: "image", hint: "Kleines Bild (muss quadratisch sein)." }
+          - {
+              label: "Name",
+              name: "name",
+              widget: "string",
+              hint: "Dein Vor- und Nachname.",
+            }
+          - {
+              label: "Profilbild",
+              name: "image",
+              widget: "image",
+              hint: "Kleines Bild (muss quadratisch sein).",
+            }
           - label: "Social Media"
             name: "social"
             widget: "list"
-            fields: 
+            fields:
               - label: "Medium"
                 name: "medium"
                 widget: "select"
                 options:
-                - { label: "E-Mail", value: "email" }
-                - { label: "Instagram", value: "instagram" }
-                - { label: "Twitter", value: "twitter" }
-                - { label: "Facebook", value: "facebook" }
+                  - { label: "E-Mail", value: "email" }
+                  - { label: "Instagram", value: "instagram" }
+                  - { label: "Twitter", value: "twitter" }
+                  - { label: "Facebook", value: "facebook" }
               - label: "User"
                 name: "username"
                 widget: "string"
@@ -185,33 +196,38 @@ collections:
               name: "mainColor",
               widget: "string",
               hint: "Für Links, Zitate, Buttons, etc. (als Hex-Farbcode).",
-              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+              pattern:
+                ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"],
             }
           - {
               label: "Akzentfarbe",
               name: "accentColor",
               widget: "string",
               hint: "Für aktive Links, etc. (als Hex-Farbcode).",
-              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+              pattern:
+                ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"],
             }
           - {
               label: "Hintergrundfarbe Navigation",
               name: "navigationBackgroundColor",
               widget: "string",
               hint: "Hintergrundfarbe der Navigation (als Hex-Farbcode).",
-              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+              pattern:
+                ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"],
             }
           - {
               label: "Textfarbe Navigation",
               name: "navigationTextColor",
               widget: "string",
               hint: "Textfarbe der Navigation (als Hex-Farbcode).",
-              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+              pattern:
+                ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"],
             }
           - {
               label: "Textfarbe Navigation aktiv",
               name: "navigationTextColorActive",
               widget: "string",
               hint: "Textfarbe der Navigation für das aktive Element (als Hex-Farbcode).",
-              pattern: ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"]
+              pattern:
+                ["^#[0-9a-fA-F]{3,6}$", "Muss ein gültiger Hex-Farbcode sein"],
             }
