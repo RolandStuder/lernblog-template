@@ -18,11 +18,11 @@
 		<h2><span>Alle Blogeinträge</span></h2>
 	</div> -->
 	<div class="card-deck listrecent">
-			{{ range (where (where .Pages "Section" "posts") "Params.featured" "==" true ) }}
+			{{ range (where (where .Pages "Section" "posts") "Params.pinned" "==" true ) }}
 				{{ partial "post_card.html" . }}
 			{{ end }}
 			{{ range where .Pages "Section" "posts" }}
-				{{ if not .Params.featured }}
+				{{ if not .Params.pinned }}
 					{{ partial "post_card.html" . }}
 				{{ end }}
 			{{ end }}

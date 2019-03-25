@@ -3,7 +3,7 @@ title = "Projektstart \"Bring Your Own Device\""
 description = "Dieser Blogeintrag zeigt auf, was die Idee des Projektes ist und wie wir uns als Projektteam organisieren."
 date = 2019-01-17T00:00:00.000Z
 image = "projektstart.jpg"
-featured = true
+pinned = true
 +++
 
 In diesem Jahr starten wir am [bwd Bern](https://www.bwdbern.ch/) mit einem **Projekt "Bring Your Own Device"**. Dieser Blogeintrag soll aufzeigen, was die Idee dieses Projektes ist und wie wir uns organisieren. Der Eintrag dient auch als Einladung für das erste Treffen der Projektgruppe und als Informationen für alle Interessierten.

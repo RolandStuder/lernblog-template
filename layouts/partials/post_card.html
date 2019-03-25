@@ -1,7 +1,7 @@
 <div class="card">
   <a href="{{ .RelPermalink }}" class="stretched-link"></a>
-  {{ if .Params.featured }}
-    <span class="card-pin"><i class="fas fa-thumbtack"></i></span>
+  {{ if .Params.pinned }}
+    <span class="card-pin" title="Angehefteter Post"><i class="fas fa-thumbtack"></i></span>
   {{ end }}
   <div class="card-image" style="background-image:url({{ if not (hasPrefix .Params.image "/") }}{{ .RelPermalink }}{{ end }}{{ .Params.image }});"></div>
   <div class="card-body">
