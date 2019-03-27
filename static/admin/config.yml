@@ -164,12 +164,6 @@ collections:
               hint: "Wird im Tab des Browsers angezeigt.",
             }
           - {
-              label: Domainname,
-              name: domain,
-              widget: string,
-              hint: "Ganzer Domainname der Website mit 'https://...'",
-            }
-          - {
               label: Favicon,
               name: favicon,
               widget: image,

@@ -196,11 +196,6 @@ span.post-read-more a:hover {
 .dropdown-menu {
   font-size: 0.9rem;
 }
-.mediumnavigation .search-icon {
-  margin-left: -40px;
-  display: inline-block;
-  cursor: pointer;
-}
 .mediumnavigation .navbar-brand img {
   max-height: 30px;
   margin-right: 5px;
@@ -449,13 +444,12 @@ ul.tags li a:hover {
   font-size: 12px; */
 }
 
-/* Use zoom image for all images in article posts. */
-.article-post img {
-  max-width: 100%;
-  height: auto;
-  cursor: pointer;
-  cursor: -webkit-zoom-in;
-  cursor: zoom-in;
+/* Make sure medium zoom image is on top of everything else, especially bootstrap navbar */
+.medium-zoom-overlay {
+  z-index: 9000;
+}
+.medium-zoom-image {
+  z-index: 9001;
 }
 
 .article-post figure {
