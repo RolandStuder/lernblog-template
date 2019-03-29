@@ -46,7 +46,7 @@ Deshalb finde ich es wichtig, dass jede Person einen **eigenen Domainnamen** res
 
 Mit einem Lernblog unter eigener Adresse kann jede/r seine eigene Geschichte erzählen. Wenn man die Domain selber kauft, dann kann man hinzufügen, ändern und löschen, wie man möchte. Die "Ownership" liegt damit klar bei der Autorin oder beim Autor selbst und nicht bei der Schule.
 
-Es geht aber um mehr, nämlich darum, dass die Schüler/innen beginnen, Verantwortung zu übernehmen für ihr Lernen. Ob und in welchem Ausmass dies gelingt, hängt von etlichen Rahmenbedingungen und Dynamiken ab. Portfolioarbeiten sind schon Mitte der 1980er Jahre aufgetaucht. Inzwischen existieren etliche Untersuchungen über Portfolios. Wir werden bestimmt die Diskussion führen, wie wir mit Vorgaben, Feedbacks und Bewertung umgehen wollen.
+Es geht aber um mehr, nämlich darum, dass alle beginnen, Verantwortung zu übernehmen für ihr Lernen. Ob und in welchem Ausmass dies gelingt, hängt von etlichen Rahmenbedingungen und Dynamiken ab. Portfolioarbeiten sind schon Mitte der 1980er Jahre aufgetaucht. Inzwischen existieren etliche Untersuchungen über Portfolios. Wir werden bestimmt die Diskussion führen, wie wir mit Vorgaben, Feedbacks und Bewertung umgehen wollen.
 
 ## Nutzen eines Lernblogs
 
@@ -90,13 +90,13 @@ Es gibt natürlich ein paar Anforderungen: Das Editieren muss sehr einfach sein.
 
 Ein aktives Arbeiten mit dem Lernblog ist nur möglich, wenn elektronische Geräte unmittelbar verfügbar sind. Mit [Bring Your Own Device](/projektstart-bring-your-own-device/) wollen wir genau solche Szenarien wie den Lernblog ermöglichen.
 
-## Die Vision - ein Netz von Lernblogs
+## Lernblog-Plattform - ein Netz von Lernblogs
 
-Ich habe jetzt vor allem über die individuellen Aspekte von Lernblogs gesprochen. Wenn jede Person unter eigenem Namen ihre eigene Website betreibt, dann sind das zuerst einmal sehr einsame Knoten im weiten Internet. Es wäre sehr schwierig, auch nur schon alle Seiten einer Klasse zu finden, geschweige denn der ganzen Schule.
+Ich habe jetzt vor allem über die individuellen Aspekte von Lernblogs gesprochen. Wenn jede Person unter eigenem Namen ihre eigene Website betreibt, dann sind das zuerst einmal sehr einsame Knoten im weiten Internet. Es wäre sehr schwierig, auch nur schon alle Seiten einer Klasse zu finden, geschweige denn einer ganzen Schule.
 
 Um das zu lösen, können wir ganz einfach auf Grundformen zurückgreifen, wie das Internet schon seit jeher funktioniert: Es sind die Verknüpfungen untereinander mit Links und die Plattformen, welche die neusten und besten Inhalte aus vielen anderen Seiten sammeln und übersichtlich darstellen.
 
-So eine Aggregations-Plattform sollten wir als Schule betreiben. Dort könnte einerseits ein Index aller Lernblogs der Schule geführt werden. Weiter würden wir automatisiert die neusten Inhalte sammeln und präsentieren. Dies wäre auch der Ort, wo Kommentare und, sollte man dies wollen, auch "likes" hinterlassen werden könnten.
+So eine Lernblog-Plattform werden wir als Schule betreiben. Dort wird es einerseits ein Index aller Lernblogs der Schule geben. Weiter werden wir automatisiert die neusten Inhalte sammeln und präsentieren. Dies wäre auch der Ort, wo Kommentare und, sollte man dies wollen, auch "Likes" hinterlassen werden könnten.
 
 Darüber hinaus könnten sich verschiedene Leute journalistisch betätigen und aus der Fülle an Inhalten die hervorheben, welche besonders gelungen sind.
 
