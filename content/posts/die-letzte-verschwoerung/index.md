@@ -33,4 +33,4 @@ Gut, hatte ich das mal auf Vorrat gelernt, denn man weiss ja nie... Aber was ich
 
 ## Viel zu tun
 
-Ich bin kein Umweltaktivist. Vielleicht eher Lebensaktivist. Ja, lasst uns doch aufhören mit Theorien hier und dort und stattdessen aktiv werden, schöner leben und gemeinsam etwas unternehmen. Es gibt nämlich viel zu tun.
+Ich bin kein Umweltaktivist. Vielleicht eher Lebensaktivist. Ja, lassen wir die letzte Verschwörung die letzte sein und stattdessen aktiv werden, schöner leben und gemeinsam etwas unternehmen. Es gibt nämlich viel zu tun.
