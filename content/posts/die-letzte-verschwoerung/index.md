@@ -1,6 +1,6 @@
 +++
 title = "Die letzte Verschwörung"
-description = "Theorien mit Verschwörungsaspekten machen ohnmächtig. Lasst uns lieber aktiv werden, schöner leben und gemeinsam etwas unternehmen."
+description = "Theorien mit Verschwörungsaspekten machen ohnmächtig. Lasst uns lieber aktiv werden im Leben und gemeinsam etwas unternehmen."
 date = 2019-03-30T00:00:00.000Z
 image = "flat-earth.png"
 +++
@@ -33,4 +33,4 @@ Gut, hatte ich das mal auf Vorrat gelernt, denn man weiss ja nie... Aber was ich
 
 ## Viel zu tun
 
-Ich bin kein Umweltaktivist. Vielleicht eher Lebensaktivist. Ja, lassen wir die letzte Verschwörung die letzte sein und stattdessen aktiv werden, schöner leben und gemeinsam etwas unternehmen. Es gibt nämlich viel zu tun.
+Ich bin kein Umweltaktivist. Vielleicht eher Lebensaktivist. Ja, lassen wir die letzte Verschwörung die letzte sein und stattdessen aktiv werden im Leben und gemeinsam etwas unternehmen. Es gibt nämlich viel zu tun.
