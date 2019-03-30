@@ -29,7 +29,7 @@ Nebenbei gesagt:
 
 Bevor man sich gegenseitig wegen einer runden oder einer flachen Erde auf dem Scheiterhaufen verbrennt, sollte man sich die Frage stellen, ob es überhaupt die relevante Frage ist. Ja, wo in meinem Leben bin ich darauf angewiesen, dass ich weiss, dass die Erde flach oder rund ist? Aus meinen 36 Lebensjahren kommt mir kein einziges Beispiel in den Sinn.
 
-Gut, hatte ich das mal auf Vorrat gelernt, denn man weiss ja nie... Aber was ich in meiner Bildungskarriere irgendwie kaum gelernt habe, ist, wie ich zu dieser einen Erde Sorge tragen kann. Und wie ich diese Aufgabe mit Mut, Kreativität und Freude und zusammen mit anderen anpacken könnte, das erst recht nicht. Aber genau das wären doch die wirklich spannenden und relevanten Fragen.
+Gut, hatte ich das mal auf Vorrat gelernt, denn man weiss ja nie... Aber was ich in meiner Bildungskarriere irgendwie kaum gelernt habe, ist, wie ich zu dieser einen Erde Sorge tragen kann. Und wie ich diese Aufgabe mit Mut, Kreativität und Freude und zusammen mit anderen anpacken könnte, das erst recht nicht. Aber genau das wären doch die wirklich relevanten Fragen.
 
 ## Viel zu tun
 
