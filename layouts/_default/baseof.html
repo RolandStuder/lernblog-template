@@ -1,12 +1,6 @@
 {{ block "variables" . -}}
-	{{ if not .IsHome -}}
-		{{ .Scratch.Set "title" (print .Params.title " | " .Site.Data.settings.general.title ) -}}
-	{{ else -}}
-		{{ .Scratch.Set "title" .Site.Data.settings.general.title -}}
-	{{ end -}}
-	
+	{{ .Scratch.Set "title" (print .Params.title " | " .Site.Data.settings.general.title ) -}}
 	{{ .Scratch.Set "description" .Params.description -}}
-
 	{{ .Scratch.Set "image" .Params.image -}}
 {{ end -}}
 

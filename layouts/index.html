@@ -1,3 +1,9 @@
+{{ define "variables" }}
+{{ .Scratch.Set "title" (print .Site.Data.settings.home.title " | " .Site.Data.settings.general.title ) -}}
+{{ .Scratch.Set "description" .Site.Data.settings.home.description -}}
+{{ .Scratch.Set "image" .Site.Data.settings.general.primaryImage -}}
+{{ end }}
+
 {{ define "main" }}
 <!-- Begin Site Title
 ================================================== -->
