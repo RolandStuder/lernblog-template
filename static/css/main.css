@@ -455,7 +455,7 @@ ul.tags li a:hover {
 .article-post figure {
   display: inline-block;
 }
-.article-post figure img,
+.article-post img,
 .frame-content img {
   margin-bottom: 0.5rem;
   line-height: 1;
