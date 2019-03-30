@@ -9,7 +9,7 @@ Gelegentlich begegnet man Menschen mit unkonventionellen Theorien. So etwa die F
 
 ## Ohnmacht und Streit
 
-Solche Geschichten sind ja zwischendurch auch amüsant und deshalb ziehen sie erfolgreich durch die Online- und Offline-Medien. Was mich aber stört an den Diskussionen über Theorien mit Verschwörungsaspekten, ist, dass sie generell ohnmächtig machen und dabei noch Menschen entzweien. Deshalb stelle ich jeweils folgende Frage:
+Solche Geschichten sind ja zwischendurch auch amüsant und deshalb ziehen sie erfolgreich durch die Online- und Offline-Medien. Was mich aber stört an Verschwörungstheorien oder Ähnlichem, ist, dass die Diskussionen darüber generell ohnmächtig machen und dabei noch Menschen entzweien. Deshalb stelle ich jeweils folgende Frage:
 
 > Gehen wir mal davon aus, deine Theorie stimmt. Was können wir zusammen unternehmen, um eine konkrete Verbesserung für unser Leben und für Leute um uns herum zu bewirken?
 
