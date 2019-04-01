@@ -1,19 +1,34 @@
 +++
 title = "Entscheidungsprozess"
-description = "Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit soziokratischem Konsent."
+description = "Dieser Blogeintrag ist ein Beschrieb, wie Entscheidungen gefällt werden mit soziokratischem Konsent oder dem Beratungsprozess."
 date = 2019-01-20T00:00:00.000Z
 image = "meeting.jpg"
 +++
 
-Dieser Blogeintrag ist ein Beschrieb, wie Entscheidungen gefällt werden mit **soziokratischem Konsent**.
+Dieser Blogeintrag ist ein Vorschlag, wie man mit alternativen Entscheidungsformen zu besseren Entscheidungen kommen kann. Hier beschreibe ich vor allem den **Beratungsprozess** und den **soziokratischem Konsent**. Zuunterst gibt es noch einen Ausblick auf weitere Formen.
 
-Das **Grundprinzip** ist, dass alle Mitglieder einer Gruppe das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe. Das **Ziel** ist, dass Entscheide mit wertvollem Feedback von anderen und möglichst effizient getroffen werden können. Weiter soll es eine innovative Kultur ermöglichen, bei welchem Initiativen nur dann blockiert werden, wenn es die Gruppe in eine gefährliche Richtung führen würde.
+Das **Ziel** ist, dass Entscheide mit wertvollem Feedback von anderen und doch möglichst effizient getroffen werden können. Weiter soll es eine innovative Kultur ermöglichen, bei welchem Initiativen nur dann blockiert werden, wenn es die Gruppe in eine gefährliche Richtung führen würde.
 
-## Soziokratischer Konsent in Meetings
+## Beratungsprozess
 
-Entscheide, bei welchen die ganze Gruppe involviert werden muss, werden in Meetings gefällt. Diese Entscheidungen fällen wir nicht nach Konsens oder durch einen demokratischen Mehrheitsentscheid, sondern nach **soziokratischem Konsent**.
+Beim Beratungsprozess muss die Person, welche eine Entscheidung fällen will, betroffene Kollegen sowie Experten um Rat fragen. So lernt er/sie Einwände, Fragen und Ideen von Kollegen kennen. Nachdem die Person sich offen die Ratschläge angehört hat, fällt diese **selbständig** eine Entscheidung. Schliesslich wird transparent kommuniziert, was entschieden wurde und welche Personen um Rat gefragt wurden.
 
-Beim _soziokratischen Konsent_ stellt man nicht die Frage, wer mit einem Vorschlag "einverstanden" ist. Alle Gruppenmitglieder werden der Reihe nach gefragt, ob sie einen **schwerwiegenden Einwand** haben. Falls niemand einen Einwand vorbringt, wird der Vorschlag angenommen.
+Diese Form wird manchmal auch "konsultativer Einzelentscheid" genannt. Man konsultiert andere Personen, übernimmt aber dann selber die Verantwortung für den Entscheid.
+
+Meine Erfahrungen damit, zum Beispiel im [Effinger Coworking Space](https://www.effinger.ch/organisation/) und in diversen Firmen, die ich gesehen habe, sind sehr positiv:
+
+- Es entscheidet die Person, welche sehr nah an der Aufgabe dran ist und nicht ein Gremium, welches aufgrund der Hierarchie zuständig ist.
+- Die Leute, welche um Rat gefragt werden, fühlen sich geehrt.
+- Es ist immer klar, wer die Verantwortung trägt. Das ermöglicht eine positive Fehlerkultur (siehe oben).
+- Dadurch, dass Leute um Rat gefragt werden und der Entscheid transparent gemacht wird, wird das Risiko für Missbrauch sehr klein.
+
+## Soziokratischer Konsent
+
+Entscheide, bei welchen eine ganze Gruppe involviert werden muss, können nicht mehr so einfach im Beratungsprozess gefällt werden. Man bringt die Entscheidung in ein Meeting, sollte sich aber für das Meeting bewusst eine Entscheidungsform wählen: Konsens kann sehr langwierig sein und demokratische Mehrheitsentscheide haben auch etliche ungewünschte Effekte. Deshalb ist der **soziokratische Konsent** meist die bessere Form.
+
+Beim _soziokratischen Konsent_ stellt man nicht die Frage, wer mit einem Vorschlag "einverstanden" ist, sondern ob niemand "dagegen" ist. Alle Gruppenmitglieder werden der Reihe nach gefragt, ob sie einen **schwerwiegenden Einwand** haben. Falls niemand einen schwerwiegenden Einwand vorbringt, wird der Vorschlag angenommen.
+
+Das **Grundprinzip** ist, dass alle Mitglieder einer Gruppe das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe. Somit kann jede Person Vorschläge zum Entscheid einbringen und kann durch einen Einwand andere Vorschläge stoppen.
 
 ### Ablauf eines Entscheides nach soziokratischem Konsent
 
@@ -68,23 +83,6 @@ Ohne diese beiden Punkten kann ich mir nur schwer vorstellen, dass man eine posi
 _Weitere Informationen zu Soziokratie auf [Wikipedia](https://de.wikipedia.org/wiki/Soziokratie), [Sociocracy For All](http://www.sociocracyforall.org/) oder [Sociocracy 3.0](https://sociocracy30.org/)._
 
 ---
-
-## Die passende Entscheidungsform wählen
-
-Soziokratischer Konsent ist nicht immer die passende Entscheidungsform. In der Community vom [Effinger Coworking Space](https://www.effinger.ch/organisation/) fällen wir die meisten Entscheidungen im Beratungsprozess. Dies ist schlanker und braucht keine Sitzungen. Nur bei grösseren Entscheidungen nutzen wir den soziokratischen Konsent.
-
-### Beratungsprozess
-
-Beim Beratungsprozess muss die Person, welche eine Entscheidung fällen will, betroffene Kollegen sowie Experten um Rat fragen. So lernt er/sie Einwände, Fragen und Ideen von Kollegen kennen. Nachdem die Person sich offen die Ratschläge angehört hat, fällt diese **selbständig** eine Entscheidung. Schliesslich wird transparent kommuniziert, was entschieden wurde und welche Personen um Rat gefragt wurden.
-
-Diese Form wird manchmal auch "konsultativer Einzelentscheid" genannt. Man konsultiert die wichtigsten Personen, übernimmt aber dann selber die Verantwortung für den Entscheid.
-
-Die Erfahrungen damit sind sehr positiv:
-
-- Es entscheidet die Person, welche sehr nah an der Aufgabe dran ist und nicht ein Gremium, welches aufgrund der Hierarchie zuständig ist.
-- Die Leute, welche um Rat gefragt werden, fühlen sich geehrt.
-- Es ist immer klar, wer die Verantwortung trägt. Das ermöglicht eine positive Fehlerkultur (siehe oben).
-- Dadurch, dass Leute um Rat gefragt werden und der Entscheid transparent gemacht wird, wird das Risiko für Missbrauch sehr klein.
 
 ## Fazit und weitere Entscheidungsformen
 
