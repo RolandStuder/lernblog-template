@@ -23,7 +23,7 @@ Beim Anbau von Karrotten scheint es nebensächlich, ob die Erde flach ist oder r
 
 Nebenbei gesagt:
 
-> Es spielt keine Rolle, ob wir eine flache oder eine runde Erde verschmutzen. Es ist die einzige, die wir haben.
+> Es spielt keine Rolle, ob wir eine flache oder eine runde Erde verschmutzen.
 
 ## Zu viel Wissen
 
@@ -33,11 +33,13 @@ Gut, hatte ich das mal auf Vorrat gelernt, denn man weiss ja nie... Aber was ich
 
 ## Viel zu tun
 
-Als Menschheit ist es natürlich von Bedeutung, danach zu forschen, wie die Erde geformt ist und was sie im Innersten zusammen hält. Es scheint aber, dass viele Diskussionen nur zwei Ausgänge kennen: Entweder man ist sich einig, dass es grosse Mächte gibt, die alles kontrollieren (Wirtschaft, Politik oder Verschwörungen) oder man ist sich nicht einig und nutzt seine Energie, um sich gegenseitig zu bekämpfen. Beides lähmt und lässt keine Kraft mehr übrig, um aktiv zu werden.
+Als Menschheit ist es natürlich von Bedeutung, danach zu forschen, wie die Erde geformt ist und was sie im Innersten zusammen hält. Mir scheint aber, dass viele Diskussionen nur zwei Ausgänge kennen: Entweder man ist sich einig, dass es grosse Mächte gibt, die alles kontrollieren (Wirtschaft, Politik oder Verschwörungen) oder man ist sich nicht einig und nutzt seine Energie, um sich gegenseitig zu bekämpfen. Beides lähmt und lässt keine Kraft mehr, um aktiv zu werden.
 
 Ich wähle deshalb lieber einen **dritten Ausgang**: Wenn die Diskussion in eine lähmende Richtung geht, abbrechen und die Frage stellen, was wir tun können, um hier, jetzt und gemeinsam etwas Gutes anzustossen.
 
-Das müssen nicht Karrotten sein. Ich bin kein Umweltaktivist. Vielleicht eher Lebensaktivist. Ja, lassen wir die Diskussionen um die letzte Verschwörung hinter uns, um im Leben aktiv zu werden und gemeinsam etwas zu unternehmen. Es gibt nämlich viel zu tun.
+Etliche werden sich weigern und lieber beim Stammtisch bleiben. Diese kann man gut dort sitzen lassen, während man mit den Leuten raus geht auf den Acker, die bereit sind, anzupacken. Später kann man mit Karrotten in der Hand zurückkehren und schauen, ob sich die Themen inzwischen geändert haben oder ob es andere gibt, die sich anöden und bereit sind, mitzuhelfen.
+
+Es müssen nicht Karrotten sein. Kreative Lösungen sind gefragt. Aber lassen wir die Diskussionen um die letzte Verschwörung hinter uns, um im Leben aktiv zu werden und gemeinsam etwas zu unternehmen. Es gibt nämlich viel zu tun.
 
 ---
 
