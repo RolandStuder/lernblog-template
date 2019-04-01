@@ -67,10 +67,10 @@ Manche der Gruppe besitzen bereits eigene Geräte, die sie in die Schule mitbrin
 
 Aktuelle Lernblogs:
 
-- Marco Giovannacci: www.giovannacci.ch
-- Seraina Waldis: www.serainawaldis.ch
-- Marco Jakob: www.marco-jakob.ch
-- Simona Zäh: www.simonazaeh.ch
+- Simona Zäh: https://www.simonazaeh.ch
+- Marco Jakob: https://www.marco-jakob.ch
+- Seraina Waldis: https://www.serainawaldis.ch
+- Marco Giovannacci: https://www.giovannacci.ch
 
 Version 1.0:
 
@@ -84,7 +84,8 @@ Aktuelle Entwicklung:
 
 ### 10. Varia
 
-Info zur [Bildungsreise nach Karlsruhe und Wutöschingen](https://en.xing-events.com/Bildungsreise_Karlsruhe.html) zu sehr innovativen Schulprojekten.
+- Info zur [Bildungsreise nach Karlsruhe und Wutöschingen](https://en.xing-events.com/Bildungsreise_Karlsruhe.html) zu sehr innovativen Schulprojekten.
+-	Nächstes Treffen BYOD: 30. April 2019
 
 ### 11. Check-Out
 
