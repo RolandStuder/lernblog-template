@@ -5,7 +5,7 @@ date = 2019-01-20T00:00:00.000Z
 image = "meeting.jpg"
 +++
 
-Dieser Blogeintrag ist ein etwas ausführlicherer Beschrieb, wie Entscheidungen gefällt werden mit **soziokratischem Konsent**.
+Dieser Blogeintrag ist ein Beschrieb, wie Entscheidungen gefällt werden mit **soziokratischem Konsent**.
 
 Das **Grundprinzip** ist, dass alle Mitglieder einer Gruppe das gleiche Recht haben, Entscheidungen zu fällen für die Gruppe. Das **Ziel** ist, dass Entscheide mit wertvollem Feedback von anderen und möglichst effizient getroffen werden können. Weiter soll es eine innovative Kultur ermöglichen, bei welchem Initiativen nur dann blockiert werden, wenn es die Gruppe in eine gefährliche Richtung führen würde.
 
@@ -45,7 +45,6 @@ Der/Die Moderator/in fragt: "Seht ihr irgendeinen Grund, warum die Annahme diese
 
 Wenn ein Einwand formuliert wurde, hat der Moderator zwei Möglichkeiten: Je nach Traktandum oder Zeitverhältnisse, wird der Vorschlag vertagt auf das nächste Treffen oder an dieser Stelle diskutiert, um einen veränderten Vorschlag zu finden.
 
-
 ### Auswirkungen
 
 Die Entscheidungsform nach _soziokratischem Konsent_ hat ein paar entscheidende Vorteile:
@@ -66,7 +65,32 @@ Ohne diese beiden Punkten kann ich mir nur schwer vorstellen, dass man eine posi
 
 ---
 
-_Weitere Informationen auf [Wikipedia](https://de.wikipedia.org/wiki/Soziokratie), [Sociocracy For All](http://www.sociocracyforall.org/) oder [Sociocracy 3.0](https://sociocracy30.org/)._
+_Weitere Informationen zu Soziokratie auf [Wikipedia](https://de.wikipedia.org/wiki/Soziokratie), [Sociocracy For All](http://www.sociocracyforall.org/) oder [Sociocracy 3.0](https://sociocracy30.org/)._
+
+---
+
+## Die passende Entscheidungsform wählen
+
+Soziokratischer Konsent ist nicht immer die passende Entscheidungsform. In der Community vom [Effinger Coworking Space](https://www.effinger.ch/organisation/) fällen wir die meisten Entscheidungen im Beratungsprozess. Dies ist schlanker und braucht keine Sitzungen. Nur bei grösseren Entscheidungen nutzen wir den soziokratischen Konsent.
+
+### Beratungsprozess
+
+Beim Beratungsprozess muss die Person, welche eine Entscheidung fällen will, betroffene Kollegen sowie Experten um Rat fragen. So lernt er/sie Einwände, Fragen und Ideen von Kollegen kennen. Nachdem die Person sich offen die Ratschläge angehört hat, fällt diese **selbständig** eine Entscheidung. Schliesslich wird transparent kommuniziert, was entschieden wurde und welche Personen um Rat gefragt wurden.
+
+Diese Form wird manchmal auch "konsultativer Einzelentscheid" genannt. Man konsultiert die wichtigsten Personen, übernimmt aber dann selber die Verantwortung für den Entscheid.
+
+Die Erfahrungen damit sind sehr positiv:
+
+- Es entscheidet die Person, welche sehr nah an der Aufgabe dran ist und nicht ein Gremium, welches aufgrund der Hierarchie zuständig ist.
+- Die Leute, welche um Rat gefragt werden, fühlen sich geehrt.
+- Es ist immer klar, wer die Verantwortung trägt. Das ermöglicht eine positive Fehlerkultur (siehe oben).
+- Dadurch, dass Leute um Rat gefragt werden und der Entscheid transparent gemacht wird, wird das Risiko für Missbrauch sehr klein.
+
+## Fazit und weitere Entscheidungsformen
+
+Entscheide sind wichtig. Meiner Meinung nach achten wir viel zu selten darauf **wie wir entscheiden wollen**. Anstatt die passende Entscheidungsform für die aktuelle Situation zu wählen, fallen wir auf unreflektierte Normen zurück oder entscheiden isoliert und alleine.
+
+Die Firma _Nobl_ hat eine [Decider App](https://thedecider.app/) auf eine Website gestellt, die durch ein paar einfache Fragen zu einer passenden Entscheidungsform führt. Dort gibt es jeweils gute Kurzbeschreibungen und Vor- und Nachteile zu jeder Entscheidungsform.
 
 ---
 
