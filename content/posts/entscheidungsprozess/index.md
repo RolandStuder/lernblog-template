@@ -1,11 +1,11 @@
 +++
 title = "Entscheidungsprozess"
-description = "Dieser Blogeintrag ist ein Beschrieb, wie Entscheidungen gefällt werden mit soziokratischem Konsent oder dem Beratungsprozess."
+description = "Wie alternative Entscheidungsformen zu besseren Entscheidungen führen. Zwei bewährte Formen sind der Beratungsprozess und der soziokratische Konsent. Diese werden hier beschrieben."
 date = 2019-01-20T00:00:00.000Z
 image = "meeting.jpg"
 +++
 
-Dieser Blogeintrag ist ein Vorschlag, wie man mit alternativen Entscheidungsformen zu besseren Entscheidungen kommen kann. Hier beschreibe ich vor allem den **Beratungsprozess** und den **soziokratischem Konsent**. Zuunterst gibt es noch einen Ausblick auf weitere Formen.
+Dieser Blogeintrag ist ein Vorschlag, wie man mit alternativen Entscheidungsformen zu besseren Entscheidungen kommen kann. Hier beschreibe ich vor allem den **Beratungsprozess** und den **soziokratischen Konsent**. Zuunterst gibt es noch einen Ausblick auf weitere Formen.
 
 Das **Ziel** ist, dass Entscheide mit wertvollem Feedback von anderen und doch möglichst effizient getroffen werden können. Weiter soll es eine innovative Kultur ermöglichen, bei welchem Initiativen nur dann blockiert werden, wenn es die Gruppe in eine gefährliche Richtung führen würde.
 
