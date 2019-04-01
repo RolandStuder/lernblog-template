@@ -2,7 +2,7 @@
 title = "Projekt BYOD Meeting 01"
 description = "Bericht und Protokoll zum ersten Meeting der Projektgruppe \"Bring Your Own Device\" am bwd Bern."
 date = 2019-01-25T00:00:00.000Z
-image = "byod-meeting.jpg"
+image = "byod-meeting-01.jpg"
 +++
 
 Heute haben wir uns zum ersten Mal getroffen als Projektgruppe "Bring Your Own Device" am bwd Bern (&rarr; [ausführliche Infos zum Projekt](/projektstart-bring-your-own-device/)).
