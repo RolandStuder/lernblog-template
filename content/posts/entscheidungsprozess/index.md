@@ -1,6 +1,6 @@
 +++
 title = "Entscheidungsprozess"
-description = "Wie alternative Entscheidungsformen zu besseren Entscheidungen führen. Zwei bewährte Formen sind der Beratungsprozess und der soziokratische Konsent. Diese werden hier beschrieben."
+description = "Mit Beratungsprozess und soziokratischem Konsent zu besseren Entscheidungen. Es lohnt sich, Entscheidungsformen zu überdenken und die passende Form zu wählen."
 date = 2019-01-20T00:00:00.000Z
 image = "meeting.jpg"
 +++
