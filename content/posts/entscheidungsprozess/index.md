@@ -19,7 +19,7 @@ Meine Erfahrungen damit, zum Beispiel im [Effinger Coworking Space](https://www.
 
 - Es entscheidet die Person, welche sehr nah an der Aufgabe dran ist und nicht ein Gremium, welches aufgrund der Hierarchie zuständig ist.
 - Die Leute, welche um Rat gefragt werden, fühlen sich geehrt.
-- Es ist immer klar, wer die Verantwortung trägt. Das ermöglicht eine positive Fehlerkultur (siehe oben).
+- Es ist immer klar, wer die Verantwortung trägt. Das ermöglicht eine positive Fehlerkultur (siehe [Fehlerkultur unten](#fehlerkultur)).
 - Dadurch, dass Leute um Rat gefragt werden und der Entscheid transparent gemacht wird, wird das Risiko für Missbrauch sehr klein.
 
 ## Soziokratischer Konsent
@@ -70,7 +70,7 @@ Die Entscheidungsform nach _soziokratischem Konsent_ hat ein paar entscheidende 
 - Der Vorschlag muss nicht "verwässert" werden, weil man eine Mehrheit dafür gewinnen muss. Das macht mehr Freude, sich zu engagieren.
 - Es ist klar, wer die Verantwortung trägt (die vorschlagende Person). Trotzdem kann niemand dieser Person später in den Rücken fallen, wenn es nicht gut rauskommt. Denn jede Person hätte ja mit einem "schwerwiegenden Einwand" das Vorhaben stoppen können und muss sich somit hinter den Vorschlag stellen, wenn sie das nicht getan hat.
 
-#### Beispiel Fehlerkultur
+#### Fehlerkultur
 
 Es gibt kaum eine Organisation, bei der der Begriff "Fehlerkultur" nicht im Leitbild steht. Trotzdem scheint kaum jemand zu wissen, wie dies zu erreichen sei.
 
