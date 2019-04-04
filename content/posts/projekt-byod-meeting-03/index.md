@@ -33,7 +33,7 @@ Die Planung wurde mit der Direktion besprochen. Der aktuelle Projektplan kann in
 
 Hier die wichtigsten Eckpunkte:
 
-- Im Sommer 2019 startet der BM2-Pilot im Fach TU (mit den Geräten, die sie entweder bereits haben oder die wir von der Schule zur Verfügung stellen)
+- Im Sommer 2019 startet der BM2-Pilot im Fach TU und GP (mit den Geräten, die sie entweder bereits haben oder die wir von der Schule zur Verfügung stellen)
 - Ende August 2019 wird in der Direktion entschieden, mit wie vielen der untersten Klassen wir im Sommer 2020 starten können.
 - Lernblogs sind bereits gestartet, weitere kommen dazu
 - Lernblog-Plattform als Übersicht über alle Blogs der Schule wird entwickelt
